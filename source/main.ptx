@@ -68,12 +68,12 @@
         <date> <today /> </date>
 
       </titlepage>
-      <colophon xml:id="front-colophon" >
-        <!-- <copyright> -->
-        <!--       <year>2001</year> -->
-        <!--   <holder>David Zitarelli</holder> -->
-        <!-- </copyright> -->
-      </colophon>
+      <!-- <colophon xml:id="front-colophon" > -->
+      <!--   <copyright> -->
+      <!--         <year>2001</year> -->
+      <!--     <holder>David Zitarelli</holder> -->
+      <!--   </copyright> -->
+      <!-- </colophon> -->
       <xi:include href="./Introduction.ptx" />
       <xi:include href="./Preface.ptx" />
     </frontmatter>
