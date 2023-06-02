@@ -32,39 +32,6 @@
           <department>Department of Computer Science and Mathematics</department>
           <institution>Penn State, Harrisburg campus</institution>
         </author>
-        <!-- <author> -->
-        <!--   <personname> -->
-        <!--     <line>Douglas Ensley, Ph. D.</line> -->
-        <!--     <line>Professor of Mathematics (Emeritus)</line> -->
-        <!--   </personname> -->
-        <!--   <department> -->
-        <!--     Department of Mathematics -->
-        <!--   </department> -->
-        <!--   <institution> -->
-        <!--     <line>Shippensburg University of Pennsylvania</line> -->
-        <!--     <line> -->
-        <!--       Shippensburg, PA 17257 -->
-        <!--     </line> -->
-        <!--   </institution> -->
-        <!-- </author> -->
-        <!-- <author> -->
-        <!--   <personname> -->
-        <!--     <line>Eugene Boman, Ph. D. </line> -->
-        <!--     <line>Associate Professor of Mathematics (Emeritus)</line> -->
-        <!--   </personname> -->
-        <!--   <department> -->
-        <!--     Department of Computer Science and Mathematics -->
-        <!--   </department> -->
-        <!--   <institution> -->
-        <!--     <line>The Pennsylvania State University</line> -->
-        <!--     <line> -->
-        <!--       Harrisburg campus -->
-        <!--     </line> -->
-        <!--     <line> -->
-        <!--       Middletown, PA 17057 -->
-        <!--     </line> -->
-        <!--   </institution> -->
-        <!-- </author> -->
         <date> <today /> </date>
 
       </titlepage>
@@ -86,7 +53,6 @@
     <xi:include href="./Expansion.ptx" />
     <xi:include href="./EPADEL.ptx" />
     <xi:include href="./SpringMeetings.ptx" />
-    <!-- <xi:include href="./Centennial.ptx" /> -->
 
 
     <backmatter>
