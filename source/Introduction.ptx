@@ -1,0 +1,165 @@
+<preface xml:id="Introduction">
+  <title>Introduction</title>
+<!-- <paragraphs> -->
+  <p>
+    The Mathematical Association of America (<url
+    href="https://www.maa.org">MAA</url>) is the world’s largest
+    organization devoted to the interests of collegiate mathematics,
+    with a major emphasis on the teaching of mathematics at the
+    collegiate level. The <url href="https://www.maa.org">MAA</url> is
+    different from many professional mathematical organizations in one
+    vital respect – more activity takes place within its sections than
+    at its national meetings.
+  </p>
+  <p>
+    This work chronicles the history of one of those sections during
+    its first 75 years. <xref ref="Background">Chapter</xref> provides
+    a background to the establishment of the section by outlining the
+    formation of the two major mathematical organizations in the
+    country and their sections – the
+    <url href="https://www.maa.org">MAA</url> and the 
+    <url href="https://www.ams.org">AMS (American Mathematical
+    Society)</url>. <xref ref="Founding">Chapter</xref> discusses the
+    founding of the Philadelphia Section in November 1926. The Section
+    initially included all of central Pennsylvania and southern New
+    Jersey. The next four chapters describe the development of the
+    section into periods defined by external events. The first,
+    1926-1933, ends with the founding of the Allegheny Section. The
+    second, 1933-1941, includes the role played by émigrés who settled
+    in the area after fleeing their homeland to avoid persecution. The
+    period 1941-1956 begins with wartime activities and ends with the
+    founding of the New Jersey Section. It is followed by a period of
+    immense expansion, 1956-1978. The present name of the section,
+    EPADEL, adopted in late 1978, serves as a divider for the last
+    period, 1978-2000, the focus of <xref
+    ref="WWII">Chapter</xref>. In addition, by the mid 1970s it became
+    necessary to add a second annual meeting to the program; the final
+    chapter describes the resulting spring meetings held annually
+    since then.
+  </p>
+  <p>
+    This book has been written so all chapters can be read
+    independently. Thus someone who is not interested in the distant
+    past, but wants to recall activities and leaders from, say, the
+    sixties, can jump to the corresponding chapter with impunity. On
+    the other hand, reading the book from front to back provides a
+    greater appreciation for the incremental changes that have taken
+    place over the <m>75</m>-year duration.
+  </p>
+  <p>
+    The emphasis of this book, however, is not strictly on the
+    mathematical developments that took place. Rather, the strength of
+    the <url href="https://www.maa.org">MAA</url> – and its sections –
+    lies with the vast army of volunteers who march to the front line
+    with plans of actions. Consequently this account emphasizes the
+    people who made the section what it is. In this sense, the book
+    attempts to bring the sectional leaders to life by interspersing
+    biographical sketches into the narrative. Some of theses leaders
+    have been so active – and decorated on a national scale – that
+    larger profiles are provided at the end of chapters. Altogether 16
+    personalities have been profiled; 88 others have biographical
+    sketches. Appendix 1 provides an alphabetical list of all 104 of
+    them.
+  </p>
+  <p>
+    Sometimes, finding details about these personalities has presented
+    a daunting task, because few departments have kept very good
+    records. However, I have been helped enormously by several
+    archivists, to whom EPADEL and I owe a great debt of gratitude:
+    Claire L. Andrews and John A. Erdmann (Kutztown), Raymond Butti
+    (Brown), James Duffin and Ryan M. Janda (Penn), Daniel R.  Gilbert
+    (Moravian), Philip A. Metzger (Lehigh), Patricia O’Donnell
+    (Swarthmore), Diana F. Peterson (Haverford), Ann W. Upton
+    (F&amp;M), and Carolyn Weigel (Ursinus).
+  </p>
+  <p>
+    Many present EPADEL members have also aided me in locating
+    information.  I will not attempt to list all of them here, partly
+    for fear of omitting someone who spent a lot of time searching
+    for, say, the exact year of retirement of a colleague.  However, I
+    hereby acknowledge the invaluable help I received from a few
+    people who are not sketched in this work: Stephen F. Andrilli
+    (LaSalle), James P.  Crawford (Lafayette), Penelope H. Dunham
+    (Muhlenberg), Gary L. Ebert (Delaware), Frederick W. Hartmann
+    (Villanova), Everett Pitcher (Lehigh), Chris Rorres (Drexel),
+    George M. Rosenstein, Jr. (F&amp; M), Jeff Tecosky-Feldman
+    (Haverford), and Paul R. Wolfson (West Chester).
+  </p>
+  <p>
+    I am particularly indebted to Temple University for a Research and
+    Study Leave during the spring <m>1999</m> semester. This sabbatical
+    allowed me to jumpstart a history that had been languishing the
+    previous two years.
+  </p>
+  <p>
+    In addition, I gratefully thank William Dunham (Muhlenberg), for
+    his detailed proofreading of an earlier version of the entire
+    manuscript, and Raymond F.  Coughlin (Temple), for his
+    encouragement to publish it.
+  </p>
+  <p>
+    David E. Zitarelli
+  </p>
+  <p>
+    September 1, 2001
+  </p>
+<!-- </paragraphs> -->
+<!-- <paragraphs> -->
+<!-- <title>Preface</title> -->
+<!-- <p> -->
+<!-- The <url href="https://www.maa.org">MAA</url> has played a large role -->
+<!-- in my professional life since my undergraduate days at Pennsylvania -->
+<!-- Military College (shortened to PMC, but now called Widener -->
+<!-- University). Three serendipitous events formed the basis for my future -->
+<!-- involvement in the Association during my three years there. -->
+<!-- </p> -->
+<!-- <p> -->
+<!-- The first occurred while I was in the school’s library doing research -->
+<!-- for a term paper in one of two required composition courses. Taking a -->
+<!-- break from Occam’s Razor, I perused the stacks in the school’s small -->
+<!-- library, which then consisted of only two rooms. Although a general -->
+<!-- science major, I maintained a strong interest in mathematics, so my -->
+<!-- eyes were drawn to the only magazine on mathematics in the stacks, the -->
+<!-- <pubtitle>American Mathematical Monthly</pubtitle>. I soon learned to call it a -->
+<!-- <q>journal</q> instead of a <q>magazine</q>. But I found the articles -->
+<!-- inscrutable. A year later, having scanned every issue of the journal -->
+<!-- upon its arrival, I asked Professor Claude Helms, then head of the -->
+<!-- department, <q>What’s topology?</q> <q>Some newfangled theory,</q> he -->
+<!-- replied offhandedly. -->
+<!-- </p> -->
+<!-- <p> -->
+<!-- But Helms encouraged me to write Harry Gehman, whose name was listed -->
+<!-- on the cover of the <pubtitle>Monthly</pubtitle>. That led to the second event -->
+<!-- that would define my career, because the longtime  -->
+<!-- <url href="https://www.maa.org">MAA</url>  -->
+<!-- secretary-treasurer responded with a detailed, personal letter -->
+<!-- explaining the path I should follow to study topology. He also invited -->
+<!-- me to apply for membership in the <url -->
+<!-- href="https://www.maa.org">MAA</url>. So began my first, tentative -->
+<!-- steps toward becoming a mathematician, though an algebraist and not a -->
+<!-- topologist. Upon transferring to Temple University, I elected a course -->
+<!-- with Dr. Marie Wurster, who taught me the critical ability to write -->
+<!-- proofs. -->
+<!-- </p> -->
+<!-- <p> -->
+<!-- The third decisive event took place when the Temple chair, Dr. Walter -->
+<!-- Lawton, encouraged me to attend a sectional meeting of the  -->
+<!-- <url href="https://www.maa.org">MAA</url>. So, on a nasty, wind-swept -->
+<!-- November morning, I trudged to Haverford College to spend an entire -->
+<!-- Saturday immersed in words and concepts that belonged on a different -->
+<!-- planet. Yet the spirit of the speakers, especially Pincus Schub of -->
+<!-- Penn – a little, old man with big, young ideas – was infectious. -->
+<!-- </p> -->
+<!-- <p> -->
+<!-- These three events - discovering the <pubtitle>Monthly</pubtitle>, joining the -->
+<!-- <url href="https://www.maa.org">MAA</url> and attending its sectional -->
+<!-- meetings - conspired to draw me ineluctably to the present work. They -->
+<!-- also highlighted the central role that individuals play in our -->
+<!-- professional development. It is my grandest hope that this book -->
+<!-- enables other sectional members to understand and to appreciate our -->
+<!-- rich heritage. I also hope that other mathematicians will learn about -->
+<!-- the important role this local microcosm has played in the more global -->
+<!-- American mathematical community. -->
+<!-- </p> -->
+<!-- </paragraphs> -->
+</preface>

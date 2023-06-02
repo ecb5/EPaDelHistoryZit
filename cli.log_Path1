@@ -1,0 +1,20 @@
+INFO    : PreTeXt project found in `/Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium`.
+WARNING : Assets like latex-images will not be regenerated for this build
+WARNING : (previously generated assets will be used if they exist).
+WARNING : To generate these assets before building, run `pretext build -g`.
+INFO    : Preparing to build into /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/output/print.
+INFO    : 
+Now building LaTeX into /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/output/print
+
+INFO    : discovering source file's directory name: /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/source
+INFO    : verifying and expanding input directory: /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/source/../generated-assets
+INFO    : input directory expanded to absolute path: /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/generated-assets
+INFO    : verifying and expanding input directory: /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/source/../assets
+INFO    : input directory expanded to absolute path: /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/assets
+INFO    : converting /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/source/ThirdMill.ptx to LaTeX as /var/folders/86/qp74x5z131z80br739p9_cr40000gn/T/tmp01s9_2rp/ThirdMill.tex
+INFO    : XSL conversion of /Users/dougensley/Dropbox/EPADEL/EPADEL History/Boman/ThirdMillenium/source/ThirdMill.ptx by /Users/dougensley/.ptx/xsl/pretext-latex.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/dougensley/.ptx/xsl/pretext-latex.xsl
+INFO    : 
+Success! Run `pretext view print` to see the results.
+

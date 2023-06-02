@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+
+  <docinfo>
+
+    <macros>
+    </macros>
+
+    <latex-image-preamble>
+    </latex-image-preamble>
+  </docinfo>
+
+  <book xml:id="EPaDelHistory">
+    <title>EPADEL:A Semisesquicentennial History, 1926-2000</title>
+    <!-- <title>EPADEL, The Centennial Era: 2001-2026</title> -->
+    <frontmatter xml:id="FrontMatter" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+      <titlepage>
+
+        <author>
+          <personname>David E. Zitarelli</personname>
+          <department>Department of Mathematics</department>
+          <institution>
+            <line>Temple University</line>
+            <line>Philadelphia, PA 19122</line>
+          </institution>
+        </author>
+        <author>
+          <personname>Converted to PreTeXt by Eugene C. Boman</personname>
+          <department>Department of Computer Science and Mathematics</department>
+          <institution>Penn State, Harrisburg campus</institution>
+        </author>
+        <!-- <author> -->
+        <!--   <personname> -->
+        <!--     <line>Douglas Ensley, Ph. D.</line> -->
+        <!--     <line>Professor of Mathematics (Emeritus)</line> -->
+        <!--   </personname> -->
+        <!--   <department> -->
+        <!--     Department of Mathematics -->
+        <!--   </department> -->
+        <!--   <institution> -->
+        <!--     <line>Shippensburg University of Pennsylvania</line> -->
+        <!--     <line> -->
+        <!--       Shippensburg, PA 17257 -->
+        <!--     </line> -->
+        <!--   </institution> -->
+        <!-- </author> -->
+        <!-- <author> -->
+        <!--   <personname> -->
+        <!--     <line>Eugene Boman, Ph. D. </line> -->
+        <!--     <line>Associate Professor of Mathematics (Emeritus)</line> -->
+        <!--   </personname> -->
+        <!--   <department> -->
+        <!--     Department of Computer Science and Mathematics -->
+        <!--   </department> -->
+        <!--   <institution> -->
+        <!--     <line>The Pennsylvania State University</line> -->
+        <!--     <line> -->
+        <!--       Harrisburg campus -->
+        <!--     </line> -->
+        <!--     <line> -->
+        <!--       Middletown, PA 17057 -->
+        <!--     </line> -->
+        <!--   </institution> -->
+        <!-- </author> -->
+        <date> <today /> </date>
+
+      </titlepage>
+      <!-- <colophon xml:id="front-colophon" > -->
+      <!--   <copyright> -->
+      <!--         <year>2001</year> -->
+      <!--     <holder>David Zitarelli</holder> -->
+      <!--   </copyright> -->
+      <!-- </colophon> -->
+      <xi:include href="./Introduction.ptx" />
+      <xi:include href="./Preface.ptx" />
+    </frontmatter>
+    
+    <xi:include href="./Background.ptx" />
+    <xi:include href="./Founding.ptx" />
+    <xi:include href="./Establishment.ptx" />
+    <xi:include href="./Emigres.ptx" />
+    <xi:include href="./WWIIAndAfter.ptx" />
+    <xi:include href="./Expansion.ptx" />
+    <xi:include href="./EPADEL.ptx" />
+    <xi:include href="./SpringMeetings.ptx" />
+    <!-- <xi:include href="./Centennial.ptx" /> -->
+
+
+    <backmatter>
+      <title>Appendices</title>
+      <xi:include href="./Appendix1.ptx" />
+      <xi:include href="./Appendix2.ptx" />
+      <xi:include href="./Appendix3.ptx" />
+      <xi:include href="./Appendix4.ptx" />
+      <xi:include href="./Appendix5.ptx" />
+      <xi:include href="./Appendix6.ptx" />
+
+      <index>
+        <title>Index</title>
+        <index-list />
+      </index>
+    </backmatter>
+
+  </book>
+
+</pretext>
+

@@ -1,0 +1,26 @@
+all: print latex web view
+
+jing: *.ptx 
+	jing ThirdMill.ptx
+
+pdf: *.ptx Makefile
+	pretext build pdf
+
+latex: *.ptx 
+	pretext build latex
+
+print: *.ptx Makefile
+	pretext build print
+	pretext view print
+
+web: *.ptx  Makefile
+	pretext build web
+
+webview: *.ptx  Makefile
+	pretext build web
+	pretext view web
+
+view:
+	evince ../output/pdf/Centennial.pdf
+
+clean: 

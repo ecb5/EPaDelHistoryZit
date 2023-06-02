@@ -1,0 +1,356 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="Background">
+  <title>Background</title>
+  <introduction>
+    <p>
+      This name is usually abbreviated EPADEL, although there is wide
+      disagreement whether to pronounce the first syllable as eep or epp.
+    </p>
+    <p>
+      In 1926 two Lehigh University mathematicians joined forces with
+      a colleague from the University of Pennsylvania to organize the
+      first formal program of mathematical lectures in the
+      section. Ultimately their activity generated the very first 
+      <url href="https://www.maa.org">MAA</url> section in the eastern
+      United States. Beginning with an application for a charter from
+      the <url href="https://www.maa.org">MAA</url>, the section was
+      initially called the Philadelphia Section in spite of the fact
+      that its membership ranged throughout eastern and central
+      Pennsylvania, the whole state of Delaware, and southern New
+      Jersey. Even today, 75 years after the founding, the
+      Philadelphia area remains the hub of activity for a geographical
+      region stretching from Wilkes Barre and Mansfield in the north
+      to the tip of Delaware in the south, and from the Shippensburg-
+      Gettysburg-Dickinson triangle in the west to the Lehigh Valley
+      in the east.
+    </p>
+    <p>
+      The section has a glorious history. Before turning to that
+      history we pause to examine briefly the background of its
+      founding. First we outline the history of the country’s two
+      major organizations – the 
+      <url href="https://www.maa.org">MAA</url> 
+      and the AMS (American Mathematical Society). Then we chronicle
+      their official journals, including a biographical sketch of one
+      leading figure, Benjamin F. Finkel, who has strong ties to the
+      area. The chapter ends with a discussion of the emergence of
+      official sections within both the AMS and the <url
+      href="https://www.maa.org">MAA</url>.
+    </p>
+    <p>
+      Readers eager to read about the section’s history are encouraged
+      to jump to <xref ref="Establishment">Chapter </xref> for an
+      account of the founding, or to <xref ref="EPADEL">
+      Chapter</xref> and <xref ref="SpringMeetings"> Chapter</xref>
+      for an analysis of activities over the past <m>2</m>
+      years. Overall, the chapters are generally independent of one
+      another, though a common thread runs throughout the entire work.
+    </p>
+  </introduction>
+
+  <section>
+    <title>The AMS</title>
+    <p>
+      Neither the <url href="https://www.ams.org">AMS </url> nor the
+      <url href="https://www.maa.org">MAA</url> was created in a
+      vacuum. The history of professional organizations in the country
+      began with associations devoted to more general scientific
+      matters, such as the American Philosophical Society. The APS was
+      founded in Philadelphia in <m>1743</m> as the country’s first
+      professional society devoted to science. By the end of the 19 th
+      century many of these general organizations evolved into
+      societies dedicated to a particular science.
+    </p>
+    <p>
+      The first movement to form an organization of scientists
+      interested primarily in mathematics took place in New York City
+      in <m>1817</m> when a transplanted Englishman, William Marrat,
+      convened a gathering of eight mathematicians.  Although this
+      group endured for eight years, it seems to have expired when
+      Marrat returned to England in <m>1825</m>.
+    </p>
+    <p>
+      No attempt at founding an organization devoted to mathematics
+      would occur for another 63 years. In <m>1888</m> Thomas Scott
+      Fiske, inspired by meetings of the London Mathematical Society,
+      returned to New York City from a yearlong visit to Cambridge,
+      England, <q>filled with the thought that there should be a
+      stronger feeling of comradeship among those interested in
+      mathematics. I proposed to my classmates and friendly rivals,
+      Jacoby and Stabler, that we should try to organize a local
+      mathematical Society.</q> Together the three graduate students
+      printed and distributed the notice of an organizational meeting
+      of the New York Mathematical Society (NYMS). It is relevant to
+      the history of EPADEL that the meeting was held on Thanksgiving
+      Day (in particular, November <m>24</m>, <m>1888</m>).
+    </p>
+    <p>
+      Interest in the NYMS proceeded slowly at first but by the early
+      1890s its membership began to increase more rapidly, growing
+      from only <m>6</m> in <m>1888</m> to <m>251</m> in
+      <m>1894</m>. By <m>1894</m> there was sufficient demand to
+      expand the Society’s meetings to locales beyond New York
+      City. The name was changed to reflect this expansion to a
+      national organization, called the American Mathematical Society.
+      As a corollary, the Society’s officicial journal was renamed the
+      <em>Bulletin of the American Mathematical Society</em>.
+    </p>
+  </section>
+  <section>
+    <title><em>The Monthly</em></title>
+    <p>
+      There were several short-lived attempts to establish mathematical journals
+      throughout the <m>19</m>th century, including the <pubtitle>Mathematical Correspondent</pubtitle> and three
+      different periodicals called <pubtitle>The Analyst</pubtitle>. The first to find a permanent niche on
+      American soil was the <pubtitle>American Journal of Mathematics</pubtitle>, founded at Johns
+      Hopkins University in 1878 by J. J. Sylvester and William Story. Six years later a
+      second such journal was initiated by Ormond Stone at the University of Virginia,
+      the <em>Annals of Mathematics</em>.
+    </p>
+    <p>
+      Of particular relevance was the launching in 1858 by John Runkle
+      of a journal he called the <pubtitle>Mathematical
+      Monthly</pubtitle>. Although it ceased publication with the onset of
+      the Civil War in 1861, it was reestablished in 1894 as the
+      <pubtitle>American Mathematical Monthly</pubtitle>. Initially the
+      <pubtitle>Monthly</pubtitle>’s masthead read, <q>founded in 1894 by Benjamin
+      F. Finkel, [and] published by him until 1913. From 1913 to 1916
+      it was owned and published by representatives of fourteen
+      Universities and Colleges in the Middle West.</q> Because the
+      founding of the <url href="https://www.maa.org">MAA</url> is
+      intimately intertwined with the history of its official journal,
+      we must relate a few facts about the journal’s founder,
+      including two close ties to the Philadelphia area.
+    </p>
+    <p>
+      <ul>
+        <li>
+          <p>
+            <alert>Benjamin Franklin Finkel (1865-1947)</alert> earned
+            a B. S. degree from Ohio Northern in 1888 and then taught
+            high school mathematics. He managed to stay professionally
+            active by contributing to the problem departments in
+            several publications, including the Saturday Evening
+            Post. In 1895 Finkel was appointed professor of
+            mathematics and physics at Drury College in Missouri,
+            where in 1894 he began to publish the <pubtitle>American
+            Mathematical Monthly</pubtitle> in order to improve instruction
+            in high school mathematics. His first action in publishing
+            the <pubtitle>Monthly</pubtitle> was to secure the editorial
+            assistance of a high school teacher, <alert>John
+            Colaw</alert>, who had received a bachelors degree
+            (<m>1882</m>) and a masters degree (<m>1892</m>) from
+            Dickinson College.
+          </p>
+          <p>
+            Colaw’s background at Dickinson provides one link between
+            the Philadelphia area and the founding of the <url
+            href="https://www.maa.org">MAA</url>.  Another involves
+            Finkel himself. He left his position at Drury College for
+            two periods of study, the second at the University of
+            Pennsylvania, where he earned an A. M. degree in
+            <m>1904</m> and a Ph.D. in <m>1906</m>. By the time Finkel
+            returned to Drury College in the fall of <m>1906</m>, it
+            had become apparent that college and university
+            instructors demonstrated much more interest in the journal
+            than its intended audience of high school teachers.
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+      The NYMS created the <em>Bulletin</em> in <m>1891</m>. The <url
+      href="https://www.ams.org">AMS</url> created the Transactions nine
+      years later. That is the customary order in which these entities are
+      related, with societies establishing journals. Not so with the <url
+      href="https://www.maa.org">MAA</url>, however.  <pubtitle>The Monthly</pubtitle>
+      actually spawned the <url href="https://www.maa.org">MAA</url>, not
+      the other way around, and so this section of the 
+      <url href="https://www.maa.org">MAA</url> can lay claim to playing a
+      decisive role in founding the national organization it would become a
+      part of in <m>1926</m>.
+    </p>
+  </section>
+  <section>
+    <title> The <url href="https://www.maa.org">MAA</url></title>
+    <p>
+      We mentioned above that the masthead of the <pubtitle>Monthly</pubtitle>
+      carried the message, <q>From <m>1913</m> to <m>1916</m> it was
+      owned and published by representatives of fourteen Universities
+      and Colleges in the Middle West.</q> This note suggests the
+      tenuous nature of funding at this time. Its managing editor,
+      Herbert Slaught, realized that colleges offered uncertain
+      support, so he proposed that the <url
+      href="https://www.ams.org">AMS</url> sponsor the
+      <pubtitle>Monthly</pubtitle>. The <url href="https://www.ams.org">AMS</url>
+      formed a Committee to consider this issue, but it voted <m>3</m>
+      to <m>2</m> against such an undertaking. The Council of the <url
+      href="https://www.ams.org">AMS</url> accepted the Committee’s
+      report, resolving:
+    </p>
+    <blockquote>
+      <p>
+        It is deemed unwise for the American Mathematical Society to
+        enter into the activities of the special field now covered by
+        the <pubtitle>American Mathematical Monthly</pubtitle>; but the Council
+        desires to express its realization of the importance of the
+        work in this field and its value to mathematical science, and
+        to say that <alert>should an organization be formed</alert> to deal
+        specifically with this work the Society would entertain toward
+        such an organization only feelings of hearty good will and
+        encouragement. [Our emphasis.]
+      </p>
+    </blockquote>
+    <p>
+      Herbert Slaught immediately launched a movement to follow up on
+      the Council’s suggestion to form an association. He arranged an
+      organizational meeting at the joint gathering of the 
+      <url href="https://www.ams.org">AMS</url> and the AAAS (American
+      Association for the Advancement of Science) held December 30-31,
+      1915, at the Ohio State University. Earle Hedrick presided over
+      the 104 people in attendance. All organizational matters were
+      settled within three hours on the very first day of the meeting
+      except for the official name of the organization, which was
+      adopted the next day. Consequently the Mathematical Association
+      of America was born on New Year’s Eve, <m>1915</m>.
+    </p>
+    <p>
+      At that time almost all national meetings took place near
+      holidays, especially Thanksgiving and New Year’s. Today few
+      meetings of mathematical organizations are held during either
+      the Thanksgiving weekend or the week between Christmas and New
+      Year’s Day.
+    </p>
+    <p>
+      It was only then that a committee was established to negotiate
+      with the owners of the <pubtitle>Monthly</pubtitle> to secure the
+      publication as the official journal of the Association.
+      However, it was the <pubtitle>Monthly</pubtitle> that had spawned the
+      Association to begin with!
+    </p>
+  </section>
+  <section><title>Sections</title>
+  <p>
+    Although the New York Mathematical Society had expanded to the
+    American Mathematical Society in <m>1894</m>, few Midwesterners were able
+    to make the long journey to the Society’s meetings, which
+    continued to be held in the East. Todress this issue, a two-day
+    conference was convened in Chicago on December 31, 1896, with the
+    aim of founding a local section of the American Mathematical
+    Society. When the resulting resolutions were later transmitted to
+    the <url href="https://www.ams.org">AMS</url>, the Council of the
+    Society authorized the formation of sectional meetings by adding a
+    new clause to its by-laws. The first official meeting of the
+    Chicago Section of the <url href="https://www.ams.org">AMS</url>
+    was held on April <m>24</m>, <m>1897</m>.
+  </p>
+  <p>
+    Other parts of the country soon caught the sectional fever. The
+    San Francisco Section was formed in <m>1902</m> and the Southwestern
+    Section in <m>1906</m>. However, as a sign of persisting regional biases,
+    meetings of the Chicago Section were not designated as official
+    <url href="https://www.ams.org">AMS</url> meetings until 1913, and
+    meetings of other Sections not until <m>1929</m>. Such a designation was
+    important professionally because publication in the Transactions
+    of the <url href="https://www.ams.org">AMS</url>, for instance,
+    was only possible for papers presented at official Society
+    meetings.
+  </p>
+  <p>
+    In short, the <url href="https://www.ams.org">AMS</url> was
+    established from the NYMS in <m>1894</m>, with its first three
+    sections formed in <m>1897</m>, <m>1902</m>, and <m>1906</m>. The
+    <url href="https://www.maa.org">MAA</url> was founded in
+    <m>1915</m>. How long did it take this organization to form
+    sections?
+  </p>
+  <p>
+    It took just a few minutes.
+  </p>
+  <p>
+    The <url href="https://www.maa.org">MAA</url> constitution was
+    drawn up on the first day of its organizational meeting in
+    Columbus, Ohio, on December <m>30</m>, <m>1915</m>. The authors
+    specifically provided for the formation of sections, so by the
+    time the constitution was formally adopted the next day a group
+    from Kansas had already drafted a petition to become the first
+    official section of the newly formed Association.
+  </p>
+  <p>
+    Yet that honor would go to a group from another state. A group of
+    college mathematics teachers in Ohio also met on the first day of
+    the organizational meeting to vote on whether to form the Ohio
+    Section of the newly formed 
+    <url href="https://www.maa.org">MAA</url>.  Organizationally savvy,
+    they created a special committee at once to prepare their own
+    constitution. Therefore the Ohio group, like their counterparts in
+    Kansas, was poised for action when the national <url
+    href="https://www.maa.org">MAA</url> constitution was approved.
+  </p>
+  <p>
+    Within one hour of the adoption of the 
+    <url href="https://www.maa.org">MAA</url> 
+    constitution on December <m>31</m>, three state organizations
+    presented petitions to become formal sections, with Missouri
+    joining Kansas and Ohio. It is no wonder that Missouri would
+    position itself favorably. Since <m>1894</m>, college mathematics
+    teachers in the appropriately nicknamed <q>Show Me</q> state
+    provided sufficient support for the publication of the
+    <pubtitle>American Mathematical Monthly</pubtitle> under Benjamin
+    F. Finkel. Besides, Earle R.  Hedrick, then at the University of
+    Missouri, was one of the founders of the national <url
+    href="https://www.maa.org">MAA</url> and served as its first
+    president.
+  </p>
+  <p>
+    However, the fact that Ohio State was the site of the 
+    <url href="https://www.maa.org">MAA</url> organizational meeting
+    afforded a distinct advantage in the contest to become the first
+    official <url href="https://www.maa.org">MAA</url> section. So,
+    not surprisingly, Ohio beat Missouri by a few minutes in the
+    heated race to secure the first section charter. Kansas placed
+    third.
+  </p>
+  <p>
+    Faced with the overwhelming and immediate response of applications
+    from three state associations, the Council of the 
+    <url href="https://www.maa.org">MAA</url> [now called the Board of
+    Governors] created a Committee on Sections right there at its own
+    organizational meeting to formulate terms under which sections
+    could be approved. The application from Ohio was the first to be
+    granted, on March <m>1</m>, <m>1916</m>.
+  </p>
+  <p>
+    The Ohio Section was not the first to hold an official sectional
+    meeting, however. That honor reverted to the Kansas Section, which
+    met on March <m>18</m> at the University of Kansas. The Ohio
+    Section held its first meeting a month later for two days, and has
+    held annual meetings every spring since then except for the year
+    <m>1945</m>. Meanwhile the Missouri Section waited until November
+    to hold its first meeting.
+  </p>
+  <p>
+    Four more <url href="https://www.maa.org">MAA</url> sections were
+    formed during the year <m>1916</m>. Three of these represented midwestern
+    states: Iowa, Indiana, and Minnesota. The other section
+    established that year had a different geographical boundary: the
+    Maryland-Virginia-District of Columbia Section.
+  </p>
+  <p>
+    Over the next <m>10</m> years state sections were formed in
+    Kentucky, Illinois, Texas, Michigan, and Nebraska. Three other
+    sections were formed from unions of states - the Rocky Mountain
+    Section (Colorado and Wyoming), the Southeastern Section (Alabama,
+    Florida, Georgia, the two Carolinas, and Tennessee) and the
+    Louisiana-Mississippi Section. One new section was a subset of a
+    state - the Southern California Section. The latter was formed at
+    the urging of Earle Hedrick, who had moved from the University of
+    Missouri to the University of California, Southern Branch (now
+    UCLA). Hedrick acted as temporary chairman of the section until a
+    formal election of officers could be held.
+  </p>
+  <p>
+    Altogether, then, <m>16</m> sections were formed up to
+    <m>1925</m>. Our section would be next.
+  </p>
+</section>
+</chapter>

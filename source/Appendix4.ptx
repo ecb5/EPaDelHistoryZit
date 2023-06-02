@@ -1,0 +1,55 @@
+<appendix>
+  <title>Newsletter Editors</title>
+    <table xml:id="TableNewsletterEditors"><title>Newsletter Editors</title>
+      <tabular break="yes">
+        <row>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+        </row>
+        <row>
+          <cell halign="left" bottom="minor">
+Name
+          </cell>
+          <cell halign="left" bottom="minor">
+Institution
+          </cell>
+          <cell halign="left" bottom="minor">
+Years
+          </cell>
+        </row>
+<row>
+<cell>Dorothy Wolfe           </cell><cell>  Widener</cell><cell>      1976-1978</cell>
+</row>
+<row>
+<cell>JoAnne Growney          </cell><cell>  Bloomsburg</cell><cell>   1978-1979</cell>
+</row>
+<row>
+<cell>Paul C. Cochrane        </cell><cell>  Bloomsburg</cell><cell>   1979-1985</cell>
+</row>
+<row>
+<cell>John Riley              </cell><cell>  Bloomsburg</cell><cell>   1985-1988</cell>
+</row>
+<row>
+<cell>Anthony D. Berard, Jr.  </cell><cell>  Wilkes</cell><cell>       1988-1993</cell>
+</row>
+<row>
+<cell>Charles E. Hofmann      </cell><cell>  LaSalle</cell><cell>      1993-1996</cell>
+</row>
+<row bottom="minor">
+<cell>Ming Lew                </cell><cell>  Wilkes</cell><cell>       1996-2000</cell>
+</row>
+        <!-- <row> -->
+        <!--   <cell bottom="minor"> -->
+        <!--   </cell> -->
+        <!--   <cell bottom="minor"> -->
+        <!--   </cell> -->
+        <!--   <cell bottom="minor"> -->
+        <!--   </cell> -->
+        <!-- </row> -->
+      </tabular>
+    </table>
+</appendix>

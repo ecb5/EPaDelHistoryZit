@@ -1,0 +1,2018 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="Emigres">
+  <title>Émigrés, 1933-1941</title>
+  <introduction>
+    <p>
+      The Philadelphia Section was established in 1926 to advance the cause of
+      collegiate mathematics in eastern Pennsylvania, southern New Jersey, and
+      all of Delaware. There was no need to define <q>eastern</q> or <q>southern</q>
+      because no other sections of the <url href="https://www.maa.org">MAA</url> covered the states of Pennsylvania or New
+      Jersey at the time. However, as Philadelphia Section founder Albert A. Bennett
+      so presciently predicted in 1926, the formation of a section centered at one of the
+      two poles in the Keystone State would spur the establishment of a section
+      centered at the other. That event transpired when the Allegheny Section was
+      founded in 1933, so beginning that year the <url href="https://www.maa.org">MAA</url> divided the state of
+      Pennsylvania into two parts defined by longitude <m>77^\circ</m> <m>30'</m>W. This geographical
+      boundary meant that much of central Pennsylvania, including notably Penn State,
+      became aligned with the Pittsburgh axis. Although this arrangement removed
+      from the Philadelphia Section such leading figures as Orrin Frink, Frederick
+      Owens, and Helen Owens, the loss was mitigated by a new wave of energetic,
+      creative leaders.
+    </p>
+    <p>
+      That is one reason for regarding the year 1933 as a watershed in the section’s
+      history. A second reason is external to our section, even external to the country.
+      And external to mathematics. It was the rise to power of the Nazi dictator Adolf
+      Hitler, whose policies caused hundreds of the world’s finest scientists to
+      emigrate. Five notable mathematicians settled in the Philadelphia area – Emmy
+      Noether, Salomon Bochner, Hilda Geiringer, Hans Rademacher, and Richard
+      Courant. All but Noether participated in our section.
+    </p>
+    <p>
+      This chapter describes activities in the Philadelphia Section from the first
+      annual meeting held outside Pennsylvania, in 1933, to the one held two weeks
+      before the United States entered World War II in 1941. The chapter introduces a
+      new set of leaders and describes some of their professional activities. Perhaps the
+      most active of them all – J. A. Shohat – is, like Hans Rademacher, accorded a
+      personal profile at the end of the chapter as a tribute to his many contributions.
+      The five new chairs of the section are associated with five different institutions –
+      W. M. Smith (Lafayette), Richard Morris (Rutgers), J. W. Clawson (Ursinus), L.
+      L. Smail (Lehigh), and C. O. Oakley (Haverford). There are also biographical
+      sketches of two members of the Program Committee – C. B. Allendoerfer
+      (Haverford) and H. W. Brinkmann (Swarthmore) – and one invited lecturer, A.
+      G. Rau (Moravian). The chapter ends by analyzing the themes of the invited
+      lectures, with a discussion of those addresses delivered by émigrés
+      complementing an analysis by mathematical category.
+    </p>
+  </introduction>
+  <section>
+    <title>Annual Meetings</title>
+    <p>
+      <xref ref="Table7">Table</xref> lists the annual meetings of the Philadelphia Section from 1933 to
+      1941. The final column provides a reference (date of issue and page numbers) to
+      the official annual reports as they appeared in the Monthly for those readers who
+      desire additional details about the meetings.
+    </p>
+   <table  xml:id="Table7"><title></title>
+    <tabular>
+      <row>
+        <cell bottom="major">
+
+        </cell>
+        <cell bottom="major">
+
+        </cell>
+        <cell bottom="major">
+
+        </cell>
+        <cell bottom="major">
+
+        </cell>
+        <cell bottom="major">
+
+        </cell>
+        <cell bottom="major">
+
+        </cell>
+      </row>
+      <row>
+        <cell bottom="minor" halign="left">
+          Date
+        </cell>
+        <cell bottom="minor" halign="left">
+          Location
+        </cell>
+        <cell bottom="minor">
+          #
+        </cell>
+        <cell bottom="minor">
+          <url href="https://www.maa.org">MAA</url>
+        </cell>
+        <cell bottom="minor">
+          %
+        </cell>
+        <cell bottom="minor" halign="left">
+          Monthly
+        </cell>
+      </row>
+      <row>
+        <cell bottom="minor">
+
+        </cell>
+        <cell bottom="minor">
+
+        </cell>
+        <cell bottom="minor">
+
+        </cell>
+        <cell bottom="minor">
+
+        </cell>
+        <cell bottom="minor">
+
+        </cell>
+        <cell bottom="minor">
+
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Dec. 2, 1933            
+        </cell>  
+        <cell>
+          NJ College for Women  
+        </cell>
+        <cell>
+          65            
+        </cell>
+        <cell>
+          29            
+        </cell>
+        <cell>
+          45            
+        </cell>
+        <cell>
+          Feb, 1934, 61-62            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Dec. 1, 1934            
+        </cell>  
+        <cell>
+          Penn            
+        </cell>
+        <cell>
+          57            
+        </cell>
+        <cell>
+          38            
+        </cell>
+        <cell>
+          67            
+        </cell>
+        <cell>
+          Apr, 1935, 187-188            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Nov. 30, 1935            
+        </cell>  
+        <cell>
+          Lafayette            
+        </cell>
+        <cell>
+          63            
+        </cell>
+        <cell>
+          27            
+        </cell>
+        <cell>
+          43            
+        </cell>
+        <cell>
+          Mar, 1936, 145-147            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Nov. 28, 1936            
+        </cell>  
+        <cell>
+          Penn            
+        </cell>
+        <cell>
+          41            
+        </cell>
+        <cell>
+          28            
+        </cell>
+        <cell>
+          68            
+        </cell>
+        <cell>
+          Apr, 1937, 192-193            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Nov. 27, 1937           
+        </cell>  
+        <cell>
+          Haverford            
+        </cell>
+        <cell>
+          57            
+        </cell>
+        <cell>
+          37            
+        </cell>
+        <cell>
+          65            
+        </cell>
+        <cell>
+          Feb, 1938, 68-70            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Nov. 23, 1938            
+        </cell>  
+        <cell>
+          Ursinus            
+        </cell>
+        <cell>
+          30            
+        </cell>
+        <cell>
+          17            
+        </cell>
+        <cell>
+          57            
+        </cell>
+        <cell>
+          Mar, 1939, 134-136            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Dec. 2, 1939            
+        </cell>  
+        <cell>
+          Lehigh            
+        </cell>
+        <cell>
+          54            
+        </cell>
+        <cell>
+          35            
+        </cell>
+        <cell>
+          65            
+        </cell>
+        <cell>
+          Mar, 1940, 138-139            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Nov. 30, 1940            
+        </cell>  
+        <cell>
+          Penn            
+        </cell>
+        <cell>
+          45            
+        </cell>
+        <cell>
+          27            
+        </cell>
+        <cell>
+          60            
+        </cell>
+        <cell>
+          Feb, 1941, 91-93            
+        </cell>
+      </row>
+      <row>
+        <cell bottom="major">
+          Nov. 29, 1941            
+        </cell>  
+        <cell bottom="major">
+          Swarthmore            
+        </cell>
+        <cell bottom="major">
+          50            
+        </cell>
+        <cell bottom="major">
+          33            
+        </cell>
+        <cell bottom="major">
+          66            
+        </cell>
+        <cell bottom="major">
+          Apr, 1942, 220-221            
+        </cell>
+      </row>
+    </tabular>
+  </table>
+  <p>
+    The 1933 meeting was the first official function sponsored by the section that
+    did not include mathematicians from central Pennsylvania. Moreover, whereas
+    the University of Pennsylvania and Lehigh University hosted all but one of the
+    initial seven meetings, a diversity of sites emerged in the period under
+    consideration, with three colleges – Lafayette, Haverford, and Ursinus – each
+    hosting a meeting for the first time.
+  </p>
+  <p>
+    The remaining columns provide attendance figures at these meetings. They
+    show that attendance remained fairly steady, except for the small gathering at
+    Ursinus College in 1938. On average about 30 of the 51 people who attended
+    these nine meetings belonged to the <url href="https://www.maa.org">MAA</url> (59%), figures concordant with
+    attendance at the first seven meetings.
+  </p>
+</section>
+<section>
+  <title>Leaders</title>
+  <p>
+    <xref ref="Establishment">Chapter</xref> described the outstanding leadership the section received from a
+    cadre of members who sustained the vitality, initially provided by the section’s
+    three founders, from the organizational meeting in 1926 through 1932. As we
+    have seen, the chairmen of the section during the period of establishment came
+    from Philadelphia, the suburbs, the Lehigh Valley, and from outside the present
+    section’s boundaries.
+  </p>
+  <p>
+    <xref ref="Table8">Table</xref> addresses the section’s governance structure based on elections held
+    at annual fall meetings from 1933 through 1941. Recall our convention that the
+    year 1933 means that P. A. Caris was elected as secretary at the meeting in 1933
+    but carried out most of his duties during 1934. Caris continued to serve as
+    secretary until 1941, whereupon Philip M. Whitman continued the unwritten
+    tradition that the section’s secretary come from the University of Pennsylvania.
+    Caris remained active in the section up to the time of his death in 1960, being
+    elected chairman twice, in 1945 and 1950.
+  </p>
+  <p><foreign>Chairs</foreign></p>
+  <p>
+    During this period the section prospered under nine different chairmen, only
+    two of whom had been elected to office during the first seven years, H. H.
+    Mitchell and Arnold Dresden. These nine represent geographical areas within the
+    Philadelphia Section that are more scattered than during the preceding period: H.
+    H. Mitchell and J. A. Shohat were from the University of Pennsylvania in
+    Philadelphia, while J. Clawson (Ursinus College), A. Dresden (Swarthmore
+    College), and C. O. Oakley (Haverford College) came from the suburbs. Three
+    chairmen came from the Lehigh Valley: L. L. Smail and J. B. Reynolds from
+    Lehigh University and W. M. Smith from neighboring Lafayette College. The
+    remaining chairman was Richard Morris of Rutgers University. It might be
+    pointed out that by the end of this period no representative from the University of
+    Delaware had yet served as chairman of the section, a situation that would
+    change dramatically in the 1940s.
+  </p>
+  <table xml:id="Table8"><title></title>
+    <tabular>
+      <row>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+      </row>
+      <row>
+        <cell>
+          Year            
+        </cell>  
+        <cell>
+          Chairman        
+        </cell>
+        <cell>
+          Secretary
+        </cell>
+        <cell halign="left">
+          Program Committee
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1933            
+        </cell>  
+        <cell>
+          Smith            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Brinkmann, Clawson, Morris            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1934            
+        </cell>  
+        <cell>
+          Morris            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Fort, Shohat, Smith            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1935            
+        </cell>  
+        <cell>
+          Clawson            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Brinkmann, Lehmer, Oakley            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1936            
+        </cell>  
+        <cell>
+          Mitchell            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Morris, Wilson            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1937            
+        </cell>  
+        <cell>
+          Smail            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Hedlund, Nelson, Smith            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1938            
+        </cell>  
+        <cell>
+          Reynolds            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Brinkmann, Fort, Kline            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1939            
+        </cell>  
+        <cell>
+          Shohat            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Allendoerfer, Clawson, Dresden            
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1940            
+        </cell>  
+        <cell>
+          Dresden            
+        </cell>
+        <cell>
+          Caris            
+        </cell>
+        <cell>
+          Oakley, Shohat, Smith            
+        </cell>
+      </row>
+      <row>
+        <cell bottom="major">
+          1941            
+        </cell>  
+        <cell bottom="major">
+          Oakley            
+        </cell>
+        <cell bottom="major">
+          Whitman            
+        </cell>
+        <cell bottom="major">
+          Brinkmann (C), Davis, Shohat            
+        </cell>
+      </row>
+    </tabular>
+  </table>
+  <p>
+    The contributions that James Alexander Shohat made to the section warrant
+    him a personal profile at the end of the chapter. Shohat emigrated from Russia in
+    1923, arriving a decade before the European wave that splashed ashore between
+    1933 and 1941. He became a naturalized citizen in 1929, but it was not until
+    1930 that he first visited the area, delivering an invited lecture at the section’s
+    annual meeting. He moved to Philadelphia in 1931 as an assistant professor at the
+    University of Pennsylvania, and remained there the rest of his life.
+  </p>
+  <p>
+    Since the careers of Arnold Dresden, Howard Mitchell, and James Reynolds
+    have already been profiled, we provide biographical sketches of the five other
+    chairmen in the order of their terms.
+  </p>
+<p>
+  <ul>
+    <li>
+      <p>
+        <alert>William Mackey (<q>Will</q>) Smith</alert> (1881-1966) is a native of Oxford, PA.
+        He received a Ph. B. (Bachelor of Philosophy) degree from Lafayette
+        College in 1903, and joined the faculty of his alma mater two years later as
+        an instructor. However, he left that post for two years to enroll in the
+        graduate program at Columbia University, where he received a Ph.D. in
+        1911. Smith then returned to Lafayette for a year before accepting an
+        assistant professorship at the University of Oregon. Although promoted to
+        full professor there after only one year, he returned to Lafayette as an
+        associate professor in 1915 and remained at the Easton college for the rest of
+        his life. He was appointed head of the department in 1934, a year after
+        serving as the section’s chair. Like many Americans, Smith’s career was
+        interrupted by World War II, when he served as the Director of War Studies
+        at Lafayette from 1943 through 1945. He died in 1966 at the age of 85.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>Richard Morris</alert> (1868-1951), who was born in Keyport, New Jersey,
+        graduated from Peddie Institute in 1890. Even though it would be another
+        six years before he would enroll at Rutgers, he entered as a sophomore
+        because in the meantime he had acquired state certificates through study and
+        teaching experience. He graduated from Rutgers with a B.S. in 1899 at age
+        30. That fall he served as superintendent of nearby schools, but at the same
+        time he accepted an instructorship in the Department of Mathematics and
+        Graphics and initiated graduate studies at his alma mater. He earned an M.S.
+        in 1902. While Morris continued to be listed on the faculty at Rutgers, he
+        pursued graduate studies at Cornell University, resulting in a Ph.D. in 1907.
+        Upon graduation, Morris returned to Rutgers for the rest of his life, ending
+        up teaching 45 years there. In 1918 he volunteered to teach at the new
+        branch of the university, the New Jersey College for Women. Later he
+        headed the department there; he also served as head of the mathematics
+        department of the men’s colleges from 1913 to 1944. Morris was 66 years
+        old when elected chairman of the Philadelphia Section in 1934. He retired as
+        emeritus professor ten years later at age 76. Even at that point he devoted his
+        time to tutoring Rutgers students, serving as a substitute teacher in the
+        public schools, and filling vacancies in various pulpits of Methodist
+        churches in the area. Morris died in New Brunswick at the age of 83.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>John Wentworth Clawson</alert> (1881-1964) was born in St. John, New
+        Brunswick. He took his bachelors and masters degrees from New Brunswick
+        College in 1901 and 1905. In between he studied at Cambridge University in
+        England. Clawson came to the department of mathematics and physics at
+        Ursinus College in 1907. He taught at Ursinus and lived in Collegeville the
+        rest of his life, spending the years 1947-1952 as dean of the college.
+        Clawson was a charter member of the <url href="https://www.maa.org">MAA</url> in 1916 and was elected
+        chairman of the Philadelphia Section in 1935. Earlier he served two one-
+        year stints on the Program Committee (now the Executive Committee) of
+        the section, in 1930 and 1933. Clawson retired as emeritus professor in 1952
+        at age 70. He was an inveterate problem solver, beginning with his
+        published solution to a problem in the January 1909 issue of the Monthly,
+        ending with the solution to an Advanced Problem in the June/July 1957
+        issue, and including solutions to over 50 other problems in between. J. W.
+        Clawson died in 1964 after having been an <url href="https://www.maa.org">MAA</url> member for 48 years.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>Lloyd Leroy Smail</alert> (1888-1955) was born in Kansas. He received two
+        degrees from the University of Washington at Seattle, an A.B. in 1911 and
+        an A.M. in 1912. The following year he received a Ph.D. from Columbia
+        University. He then returned to the West Coast as an instructor at his alma
+        mater. Smail left Washington for the University of Oregon two years later.
+        He remained at Oregon for two years before heading to the University of
+        Texas, but he left there after only one year to accept a position at Lehigh
+        University. After relatively short durations at three land-grant universities,
+        Smail stayed at Lehigh from 1926 until his retirement as emeritus professor
+        in 1953. He was active in the Philadelphia Section since becoming one of its
+        charter members in the fall of his arrival on the Bethlehem campus. In fact,
+        he presented an invited lecture at the organizational meeting in November
+        1926. One month later he spoke at the national <url href="https://www.maa.org">MAA</url>/<url href="https://www.ams.org">AMS</url> meeting at the
+        University of Pennsylvania, with both lectures centering on Dedekind’s
+        theory of irrational numbers. Smail spoke again at the 1931 annual meeting
+        of the Philadelphia Section. His last official participation with the section
+        was his election to the Program Committee in 1947. When he died at age 66
+        he had been a member of the <url href="https://www.maa.org">MAA</url> for 31 years.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>Cletus Odia Oakley</alert> (1899-1990) was born in Texas. Today he is best
+        known for his textbooks, especially his 1955 work Principles of
+        Mathematics written with Carl B. Allendoerfer. After serving a one-year
+        tour of duty with the U. S. Navy in 1918-1919 Oakley obtained three
+        degrees in three-year increments, beginning with a bachelors from the
+        University of Texas in 1923. After a one-year stint as an engineer with
+        Western Electric Company, he accepted an instructorship at Brown
+        University, where he stayed for two years, leaving in 1926 with a masters
+        degree. He received his Ph.D. in 1929 at the University of Illinois under
+        Robert Carmichael. Upon graduation Oakley returned to Brown to teach for
+        another five years. He then came to Haverford College in 1934 and spent the
+        rest of his life on the Main Line campus, serving as head of the department
+        from 1942 until his retirement in June 1964. Of course he took several
+        leaves during this tenure, with sabbaticals in 1947-1948, 1955-1956, and
+        1960-1961, and a leave of absence in 1952-1953. In addition to eight
+        textbooks, Oakley published 14 papers (mostly on differential and integral
+        equations) and served as associate editor of the Monthly for five years. In
+        addition he was the chair of the mathematics committee of the College
+        Entrance Examination Board and editor-in-chief of the mathematics section
+        in Collier’s Encyclopedia. Oakley was also known as an excellent lecturer
+        who was supported by the NSF to address teachers in states along the
+        Atlantic seaboard. At Haverford, however, he was best known among
+        students for his athletic prowess, especially in handball; a standing offer
+        held that any student who beat him was guaranteed an A in his class. He
+        defeated all comers into his late sixties. Upon retirement Oakley spent two
+        years on a Fulbright grant, his fourth, working with teachers in Australia. He
+        died at age 91 in Ann Arbor, where he lived with his son, a professor of
+        psychology at the University of Michigan.
+      </p>
+    </li>
+  </ul>
+</p>
+  <p><foreign>Program Committee</foreign></p>
+  <p>
+    Next we discuss the composition of the section’s Program Committee (today’s
+    Executive Committee). During the period 1933-1941 a total of 15 different
+    individuals were elected to the Committee. Ordinarily three people served on this
+    committee, but in 1936 there were only two; the official report from the meeting
+    held at Lafayette does not explain this anomaly. The notation (C) in the bottom
+    row of <xref ref="Table8">Table</xref> denotes the chairman, a designation that began only in 1941.
+  </p>
+  <p>
+    Membership on the Program Committee came from colleges and universities
+    located in the city of Philadelphia, its environs, the Lehigh Valley, and New
+    Jersey, but it did not include representation from Delaware or the northern or
+    western part of the section’s geographical boundaries. Altogether 15 different
+    individuals served the 26 terms in this period. The suburban Philadelphia area
+    dominated membership on the Committee, with 12 terms (46%): Swarthmore
+    College’s three members served six terms (Brinkmann four; Dresden and Wilson
+    one each), Haverford College’s two members served three terms (Oakley two,
+    Allendoerfer one), while Ursinus College’s Clawson served two terms and Bryn
+    Mawr’s Hedlund served one. The Lehigh Valley came next in representation,
+    with 6 terms (23%): Lehigh University provided three terms (Fort two and
+    Lehmer one) and so did Lafayette College (Smith served all three). The city of
+    Philadelphia garnered five terms (19%): the University of Pennsylvania provided
+    four (Shohat three, Kline one), while Drexel Institute’s Davis served one. In
+    addition, Rutgers University’s Morris served two terms, while the New Jersey
+    College for Women’s Nelson, also located at Rutgers, served one.
+  </p>
+  <p>
+    Just like the preceding period, almost all members of the Program Committee,
+    11 of the 15, were elected chairman of the section at one time or another from
+    1928 to 1952. A chronological listing of the chairmen suggests the extent of this
+    group’s influence, especially during the 1930s: 1928 (Wilson), 1930 (Fort), 1931
+    (Dresden), 1932 (Kline), 1933 (Smith), 1934 (Morris), 1935 (Clawson), 1939
+    (Shohat), 1940 (Dresden), 1941 (Oakley), 1942 (Davis), 1944 (Nelson), and 1952
+    (Nelson). Recall our convention that brief biographies of chairs appear in the
+    chapters covering the year of the first term. Two members of the Committee are
+    deserving of special mention.
+  </p>
+<p>
+  <ul>
+    <li>
+      <p>
+        <alert>Carl Barnett Allendoerfer</alert> (1911-1974) graduated from Haverford College
+        in 1932, after which he held a prestigious Rhodes Scholarship to Cambridge
+        University before receiving his Ph.D. at Princeton University in 1937.
+        Allendoerfer joined the faculty at his alma mater Haverford College in 1946
+        but stayed there only five years, one of which (1948-1949) was spent at the
+        Institute for Advanced Study at Princeton. He then went to the University of
+        Washington, where he became one of the most active members of the
+        national <url href="https://www.maa.org">MAA</url>, serving as President for 1959-1960. Upon his death in 1974
+        the <url href="https://www.maa.org">MAA</url> honored him by establishing Allendoerfer Awards for outstanding
+        expository articles in Mathematics Magazine.
+      </p>
+    </li>  
+    <li>
+      <p>
+        <alert>Heinrich Wilhelm Brinkmann</alert> (1898-1989) was born in Hanover,
+        Germany. Heine Brinkmann received all his higher education in the U.S.
+        and ultimately became a naturalized citizen. He earned a bachelors degree
+        from Stanford University in 1920 and then accepted an instructorship there
+        for a year. During this period he was strongly interested in group theory by
+        Hans Blichfeldt, and he helped W. A. Manning write his book Primitive
+        Groups. During the summer of 1922 G. D. Birkhoff became Stanford’s first
+        visiting professor. He met Brinkmann and prompted him to apply to
+        Harvard for graduate school. When the prestigious university officially
+        offered Brinkmann admission to the graduate program later that year, he
+        replied with a terse telegraph message, <q>Yes.</q> He earned a masters degree in
+        1923 and a Ph.D. in 1925, while holding a Sheldon Fellowship during 1923-
+        1924. He wrote his dissertation on Riemann spaces under Birkhoff. After
+        graduation, Brinkmann spent a post-doctoral year with Emmy Noether at
+        Göttingen before returning to Harvard as a faculty member. He was a very
+        popular teacher; 50 years later his former student J. L. Brenner recalled,
+        <q>Brinkmann’s classes were among the most brilliantly organized ... he
+        raised questions in just the right way.</q> In 1933 Brinkmann moved to
+        Swarthmore College, where he remained for the rest of his life. He held the
+        College’s Magill Professorship from 1957 to 1965 and the Buffington
+        Professorship from 1965 until his retirement four years later. In 1971 he and
+        future section chair Eugene Klotz published the book Linear Algebra and
+        Analytic Geometry. Like several Swarthmore mathematicians, Brinkmann
+        played musical instruments. He became one of the most active
+        mathematicians in the Philadelphia Section during the 1930s, serving a
+        record four terms on the Program Committee. He also delivered invited
+        lectures at annual meetings in 1933, 1941, and 1955. Heine Brinkmann died
+        at age 90 in nearby Wallingford.
+      </p>
+    </li>
+  </ul>
+</p>
+</section>
+<section>
+  <title>Speakers</title>
+  <p>
+    <xref ref="Table9">Table</xref> lists information about the invited lectures at the annual meetings of
+    the Philadelphia Section from 1933 to 1941. During those nine years the section
+    sponsored 38 addresses by 32 individuals associated with 19 different
+    institutions.
+    The table reveals that four different faculty members from the University of
+    Pennsylvania presented a total of six lectures in this period, with James Shohat
+    and Hans Rademacher speaking twice, and James A. Clarkson and E. E. Witmer
+    once each. Shohat and Rademacher are profiled at the end of the chapter. Next
+    came Princeton University with three different speakers who delivered four talks:
+    Samuel S. Wilks (2), Salomon Bochner, and Albert W. Tucker.
+  </p>
+  <table xml:id="Table9"><title></title>
+    <tabular>
+      <row>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+      </row>
+      <row>
+        <cell bottom="minor" halign="left">
+          Year            
+        </cell>  
+        <cell bottom="minor" halign="left">
+          Speaker
+        </cell>
+        <cell bottom="minor" halign="left">
+          Institution
+        </cell>
+        <cell bottom="minor" halign="left">
+          Title
+        </cell>
+      </row>
+      <!-- <row> -->
+      <!--   <cell bottom="minor"> -->
+
+      <!--   </cell> -->
+      <!--   <cell bottom="minor"> -->
+
+      <!--   </cell> -->
+      <!--   <cell bottom="minor"> -->
+
+      <!--   </cell> -->
+      <!--   <cell bottom="minor"> -->
+
+      <!--   </cell> -->
+      <!--   <cell bottom="minor"> -->
+
+      <!--   </cell> -->
+      <!--   <cell bottom="minor"> -->
+
+      <!--   </cell> -->
+      <!-- </row> -->
+      <row>
+        <cell>
+          1933
+        </cell>
+        <cell>
+          Starke
+        </cell>
+        <cell>
+          Rutgers
+        </cell>
+        <cell>
+          Binomial congruences
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Brinkmann
+        </cell>
+        <cell>
+          Swarthmore
+        </cell>
+        <cell>
+          The interpretation of imaginaries in projective
+          geometry
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Wilder
+        </cell>
+        <cell>
+          Michigan
+        </cell>
+        <cell>
+          Connectivity of spaces
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Kasner
+        </cell>
+        <cell>
+          Columbia
+        </cell>
+        <cell>
+          Polygons and groups
+        </cell>
+      </row> 
+      <row>
+        <cell>
+          1934
+        </cell>
+        <cell>
+          Shohat
+        </cell>
+        <cell>
+          Penn
+        </cell>
+        <cell>
+          On some applications of Taylor’s Formula
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Oakley
+        </cell>
+        <cell>
+          Haverford
+        </cell>
+        <cell>
+          On successive approximations in differential
+          equations
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Benner
+        </cell>
+        <cell>
+          Lafayette
+        </cell>
+        <cell>
+          Some geometry associated with <m>\displaystyle \lim_{N\rightarrow\infty}\left(1+\frac{1}{N}\right)^N</m>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Moore
+        </cell>
+        <cell>
+          IAS
+        </cell>
+        <cell>
+          Mathematics and poetry
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1935
+        </cell>
+        <cell>
+          Bailey
+        </cell>
+        <cell>
+          Lafayette
+        </cell>
+        <cell>
+          Collegiate curricula in mathematics in this section
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Witmer
+        </cell>
+        <cell>
+          Penn
+        </cell>
+        <cell>
+          Quantum mechanics
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Hedlund
+        </cell>
+        <cell>
+          Bryn Mawr
+        </cell>
+        <cell>
+          A macroanalysis of some simple dynamical systems
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Rau
+        </cell>
+        <cell>
+          Moravian
+        </cell>
+        <cell>
+          The teaching of mathematics in the Pennsylvania
+          German schools
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Bochner
+        </cell>
+        <cell>
+          Princeton
+        </cell>
+        <cell>
+          Almost-periodic functions
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1936
+        </cell>
+        <cell>
+          Clarkson
+        </cell>
+        <cell>
+          Penn
+        </cell>
+        <cell>
+          Remarks on abstract spaces
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Cairns
+        </cell>
+        <cell>
+          Lehigh
+        </cell>
+        <cell>
+          Triangulations and related problems
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Wilks
+        </cell>
+        <cell>
+          Princeton
+        </cell>
+        <cell>
+          Inverse probability and fiducial inference
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Murray
+        </cell>
+        <cell>
+          F&amp;M
+        </cell>
+        <cell>
+          The undergraduate comprehensive exam
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1937
+        </cell>
+        <cell>
+          Grant
+        </cell>
+        <cell>
+          Rutgers
+        </cell>
+        <cell>
+          Farey series
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Owens, F.
+        </cell>
+        <cell>
+          Penn State
+        </cell>
+        <cell>
+          Some multiple perspective relationships
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Rademacher
+        </cell>
+        <cell>
+          Rademacher
+        </cell>
+        <cell>
+          On the Bernoulli numbers and the Von Staudt-
+          Clausen theorem
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Wheeler, A.H.
+        </cell>
+        <cell>
+          H S Mass.
+        </cell>
+        <cell>
+          Stellated polyhedra, illustrated with models
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1938
+        </cell>
+        <cell>
+          Wheeler, A. P
+        </cell>
+        <cell>
+          Bryn Mawr
+        </cell>
+        <cell>
+          Functions and sequences
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Tucker
+        </cell>
+        <cell>
+          Princeton
+        </cell>
+        <cell>
+          Undergraduate courses in topology and other phases
+          of geometry
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Carpenter
+        </cell>
+        <cell>
+          Ger. Acad.
+        </cell>
+        <cell>
+          Meeting the challenge to secondary mathematics
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Yates
+        </cell>
+        <cell>
+          Maryland
+        </cell>
+        <cell>
+          Linkages
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1939
+        </cell>
+        <cell>
+          Lehmer
+        </cell>
+        <cell>
+          Lehigh
+        </cell>
+        <cell>
+          Mechanical aids in the theory of numbers
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Oakley
+        </cell>
+        <cell>
+          Haverford
+        </cell>
+        <cell>
+          Equations of polygonal configurations
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Shohat
+        </cell>
+        <cell>
+          Penn
+        </cell>
+        <cell>
+          Orthogonal polynomials in relation to Lagrangian
+          and Hermitian interpolation
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Johnson
+        </cell>
+        <cell>
+          Library
+        </cell>
+        <cell>
+          Old mathematical books and instruments in the
+          Schwenkfelder Library
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Owens, H.
+        </cell>
+        <cell>
+          Penn State
+        </cell>
+        <cell>
+          Mathematics clubs, old and new
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1940
+        </cell>
+        <cell>
+          Oxtoby
+        </cell>
+        <cell>
+          Bryn Mawr
+        </cell>
+        <cell>
+          Transitive flows
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Vanderslice
+        </cell>
+        <cell>
+          Lehigh
+        </cell>
+        <cell>
+          Modern methods in differential geometry
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Rademacher
+        </cell>
+        <cell>
+          Penn
+        </cell>
+        <cell>
+          On Dedekind sums
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Wilks
+        </cell>
+        <cell>
+          Princeton
+        </cell>
+        <cell>
+          Statistics involved in College Entrance Exams
+        </cell>
+      </row>
+      <row>
+        <cell>
+          1941
+        </cell>
+        <cell>
+          Bailey
+        </cell>
+        <cell>
+          Lafayette
+        </cell>
+        <cell>
+          The problem of the square pyramid
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Brinkmann
+        </cell>
+        <cell>
+          Swarthmore
+        </cell>
+        <cell>
+          Cubic congruences
+        </cell>
+      </row>
+      <row>
+        <cell>
+          
+        </cell>
+        <cell>
+          Maker
+        </cell>
+        <cell>
+          Rutgers
+        </cell>
+        <cell>
+          Recent developments in the Cauchy theory of
+          analytic functions
+        </cell>
+      </row>
+      <row>
+<cell  bottom="major">
+          
+        </cell>
+<cell  bottom="major">
+          Courant
+        </cell>
+<cell  bottom="major">
+          NYU
+        </cell>
+<cell  bottom="major">
+          Problems of stability and instability demonstrated by
+          soap film experiments
+        </cell>
+      </row>
+    </tabular>
+  </table>
+<p>
+<xref ref="Table10">Table </xref> provides affiliations for the remaining institutions that housed more
+than one speaker. Bryn Mawr College, Lafayette College, Lehigh University, and
+Rutgers University accounted for three lectures each. In addition, Haverford
+College, Swarthmore College, and the Pennsylvania State University each
+accounted for two lectures. It is notable that the two speakers from Penn State
+were the husband-and-wife team of Frederick and Helen Owens.  
+</p>
+
+  <table xml:id="Table10"><title></title>
+    <tabular>
+      <row>
+        <cell bottom="major">
+          
+        </cell>
+        <cell bottom="major">
+          
+        </cell>
+      </row>
+      <row>
+        <cell bottom="minor" halign="left">
+          Institution
+        </cell>  
+        <cell bottom="minor" halign="left">
+          Speakers
+        </cell>
+      </row>
+      <row>
+        <cell bottom="minor">
+
+        </cell>
+        <cell bottom="minor">
+
+        </cell>
+      </row>
+<row>
+<cell>
+Bryn Mawr
+</cell>
+<cell>
+Hedlund, Oxtoby, Wheeler
+</cell>
+</row>
+
+<row>
+<cell>
+Haverford
+</cell>
+<cell>
+Oakley (2)
+</cell>
+</row>
+
+<row>
+<cell>
+Lafayette
+</cell>
+<cell>
+Bailey (2), Benne
+</cell>
+</row>
+
+<row>
+<cell>
+Lehigh
+</cell>
+<cell>
+Cairns, Lehmer, Vanderslice
+</cell>
+</row>
+
+<row>
+<cell>
+Penn State
+</cell>
+<cell>
+F. Owens, H. Owens
+</cell>
+</row>
+
+<row>
+<cell>
+Rutgers
+</cell>
+<cell>
+Grant, Maker, Starke
+</cell>
+</row>
+
+
+<row>
+<cell  bottom="major">
+Swarthmore
+</cell>
+<cell  bottom="major">
+Brinkmann (2)
+</cell>
+</row>
+    </tabular>
+  </table>
+
+<p>
+Of the remaining 10 institutions that housed one speaker each, four lie within
+the Philadelphia Section: Moravian College, Franklin &amp; Marshall College,
+Germantown Academy (a private high school in Philadelphia), and the
+Schwenkfelder Library.
+</p>
+</section>
+
+<section>
+  <title>Themes of Lectures</title>
+<p>
+First we discuss the invited lectures delivered by émigré mathematicians who
+settled in the region. Then we examine the lectures by their mathematical
+classification: analysis, geometry/topology, algebra/number theory, probability/
+statistics, curriculum/pedagogy, and special topics.
+</p>
+
+  <p><foreign>Émigrés</foreign></p>
+<p>
+Like the rest of the country, the Philadelphia Section benefited enormously
+from mathematicians forced to flee their homeland. During the period 1933-1941
+six invited lectures were given by four different émigré mathematicians, all of
+whom chose to speak on some aspect of analysis except for Richard Courant,
+who spoke on applied mathematics.
+</p>
+<p>
+The preceding chapter discussed the 1930 lecture by one immigrant from the
+1920s, James A. Shohat. The Penn professor accepted two more invitations in the
+1930s, the first at the 1934 meeting held at Penn. In this lecture Shohat showed
+that the trapezoidal formula and Simpson’s Rule for approximating a definite
+integral could be derived by a simple application of Taylor’s Formula.
+</p>
+<p>
+The 1939 annual meeting held at Lehigh provided the highlight of Shohat’s
+association with the Philadelphia Section. At the business part of the meeting,
+held between the morning and afternoon sessions, he was elected chairman of the
+section for the next year. On the program he presented a talk contrasting
+Lagrangian and Hermitian interpolations of certain orthogonal polynomials,
+based on recent results of Bernstein, Faber, and Fejér.
+</p>
+<p>
+Princeton’s Salomon Bochner was born in Krakow, Poland, in 1899. He was
+forced to leave his position of lecturer in Munich, Germany, in 1932, and just one
+year later Oswald Veblen arranged a faculty appointment for Bochner at
+Princeton. Two years after that, in Bochner’s 1935 talk to the Philadelphia
+Section, he presented an outline of the theory of periodic and almost-periodic
+functions as viewed from the theory of expansions of general functions on
+groups. He emphasized that his approach explained adequately why the
+exponentials formed a complete system of pure periodic functions of one
+variable. We do not know the cause of James Shohat’s emigration from Russia in
+1923 but there is no doubt why Salomon Bochner left Poland – to avoid the Nazi
+persecution of Jews. Bochner always remained grateful to the United States for
+saving his life.
+</p>
+<p>
+Hans Rademacher, the third émigré to speak to the Philadelphia Section, also
+left his native Germany to avoid Nazi persecution, but not for religious reasons.
+Rademacher was a Protestant who became a Quaker when he came to
+Philadelphia. He was dismissed from his position as full professor at the
+University of Breslau in 1933 because he belonged to the International League
+for the Rights of Man and was president of the Breslau chapter of the German
+Society for Peace.
+</p>
+<p>
+During his lifetime Hans Rademacher presented four invited lectures at
+annual meetings of the Philadelphia Section, two during the period
+under consideration, the first at the 1937 meeting at Haverford
+College. A distinguished figure in analysis and analytic number
+theory, he chose to speak about Bernoulli numbers in his initial
+talk. Here he regarded the general binomial coefficient <m>n\choose
+j</m> as an integral-valued polynomial of the <m>j^{th}</m> degree,
+which was then expressed as a linear combination of binomial
+coefficients by means of integral coefficients <m>A_{q j}</m> . The
+resulting formula yielded the <m>(q + 1)^{th}</m> Bernoulli
+polynomial. The master number theorist used this fact to prove that
+the Von Staudt theorem followed as a direct consequence of a
+congruence property of the <m>A_{q j}</m>.
+</p>
+<p>
+Rademacher delivered his second invited lecture to the Section at the 1940
+annual meeting at his home institution, the University of Pennsylvania. On this
+occasion he spoke about one of his favorite topics, Dedekind sums, based on a
+forthcoming paper written with his first Ph.D. student at Penn, Albert Whitman.
+Rademacher lectured on an arithmetical property of Dedekind sums called the
+<q>theorem of reciprocity</q>.
+</p>
+<p>
+The lecture by the remaining émigré, Richard Courant, is noteworthy for
+several reasons. For one, it was the last lecture delivered during the period under
+discussion. For another, the subject matter was one dear to the speaker’s heart:
+applied mathematics. Another émigré, Lipman Bers, commenting on the value of
+many immigrants’ knowledge of applied mathematics, wrote, <q>Almost overnight,
+refugee mathematicians became a boon rather than a burden.</q> Like Bochner,
+Courant had been born in Poland but educated in Germany, obtaining his
+doctorate under David Hilbert at Göttingen in 1910. He was professor of
+mathematics and Director of the Mathematical Institute at Göttingen from 1920
+until his dismissal by the Nazis in 1933. After spending the next academic year at
+Cambridge University, Courant crossed the ocean to become a professor of
+mathematics and head of the department at New York University. He held both
+posts until his retirement in 1958. Curiously, the fascinating biography of
+Courant by Constance Reid does not mention his lecture to our section.
+</p>
+<p>
+The title of Courant’s lecture was <q>Problems of stability and instability
+demonstrated by soap film experiments</q>. In it he stated that if a dynamical
+system permits different states of stable equilibrium, corresponding to relative
+minima of the potential energy, there must exist transitions between these two
+states leading over an intermediary state of unstable equilibrium. Courant then
+demonstrated the principle with soap film experiments of a novel type, relating to
+minimal surfaces and systems of such surfaces. After that Courant discussed how
+these experiments pointed to a new field within the calculus of variations. He
+ended his talk by linking the newly formulated problems to classical
+isoperimetric problems.
+</p>
+<p>
+Before discussing other invited lectures during 1933-1941, we pause to
+mention another one on applied mathematics. Given at the 1935 meeting, Penn’s
+Enos Eby Witmer spoke on <q>Quantum mechanics</q>. In his talk Witmer viewed
+the development of quantum theory as developed by Planck in terms of the
+history of classical physics. His major theme was that every physical problem
+should be approached as an eigenvalue problem. He concluded, <q>and that is what
+quantum mechanics is.</q>
+</p>
+<p><foreign>Analysis</foreign></p>
+<p>
+The section above described lectures on analysis by James Shohat, Salomon
+Bochner, and Hans Rademacher. From 1933 to 1941 five other speakers chose to
+speak on a theme from analysis. Altogether 10 of the 38 talks presented to the
+Philadelphia Section during the nine-year period under discussion were on
+analysis, which reflects a slight de-emphasis from the period 1928-1932, which
+featured 8 of 23.
+</p>
+<p>
+Haverford’s Cletus O. Oakley delivered two invited addresses during the
+1930s. In 1934 he lectured on ordinary differential equations. The title of his
+1939 talk, <q>Equations of polygonal configurations,</q> belies its content, which
+concerned semilinear equations involving linear forms. By invoking properties of
+linear operators, Oakley thereby introduced many of the members to topics in
+modern functional analysis.
+</p>
+<p>
+A lecture given three years earlier removed all doubt about the intrusion of
+<q>soft analysis</q> into the area. In his 1936 talk, Penn’s James A. Clarkson
+discussed convexity properties of Banach spaces and their subsets, the first time
+such spaces were mentioned officially at a meeting of the Section. In his talk
+Clarkson presented a simple proof of the Radon-Riesz theorem on weak
+convergence in <m>L_p</m> spaces for <m>p > 1</m>.
+</p>
+<p>
+Two Bryn Mawr College professors also spoke on analysis. In 1935 Gustav
+Arnold Hedlund took a rather nontraditional approach to dynamical systems.
+Hedlund’s lecture did not feature the usual particles. Instead he considered
+Euclidean and non-Euclidean billiards with a single ball, which maintains its
+velocity and is reflected from the sides at equal angles. In her 1938 lecture Anna
+Pell Wheeler presented a study of the correspondence between certain classes of
+functions analytic in the interior of the unit circle.
+</p>
+<p>
+P. T. Maker of Rutgers University preceded Courant’s talk at the 1941
+meeting held at Penn. Like Pell Wheeler, Maker spoke about analytic functions.
+In his talk he discussed the contribution of measure theory to the problem of
+relaxing conditions in order for a function of a complex variable to be analytic,
+ending by generalizing the Cauchy theorem to functions on closed sets.
+</p>
+
+<p><foreign>Geometry/Topology</foreign></p>
+<p>
+Eight lectures at the annual meetings of the Philadelphia Section held from
+1933 to 1941 were devoted to topics in topology or geometry. Although the
+previous five-year period witnessed lectures by Princeton topologists James
+Alexander and Morris Knebelman, nobody from that famous school of
+topologists spoke during the period at hand. Nonetheless, the three talks devoted
+to topology maintained the quality achieved by the earlier speakers.
+</p>
+<p>
+The earliest address on topology was an expository talk by Raymond L.
+Wilder, one of the first graduates of the Texas school of topology under R. L.
+Moore. At the time of his lecture Wilder was at the Institute for Advanced Study
+at Princeton on leave from Michigan. In his talk he outlined the development of
+various notions of connectivity in higher dimensional polyhedrals, then he
+described recent extensions of these ideas to arbitrary topological spaces.
+</p>
+<p>
+The next lecture on topology was given by Stuart S. Cairns of Lehigh
+University, who spoke on the deep subject of simplicial complexes in both point
+set and algebraic topology, the latter then known as <q>combinatorial topology</q>.
+After presenting his solution to a problem involving regular manifolds, Cairns
+applied the material to the usual definition of arc length before supplying a proof
+of the generalized Stokes Theorem.
+</p>
+<p>
+The third, and final, invited lecture on topology was given by one of the
+section’s most active members, John C. Oxtoby of Bryn Mawr College, who was
+elected chairman of the section in 1955. Oxtoby opened the 1940 meeting at
+Penn by discussing transitive flows, a topic that deals with one-parameter
+continuous groups of automorphisms of a topological space. As is typical of
+many aspects of Lie groups, this material was applied to the theory of differential
+equations.
+</p>
+<p>
+The five talks on geometry during this period dealt with five entirely different
+aspects of the subject. At the 1940 meeting John Oxtoby was followed by J. L.
+Vanderslice of Lehigh University, who gave an expository talk on
+generalizations of classical differential geometry in which he supplied evidence
+for the indispensability of tensors and tensor differentiation. Two years earlier R.
+C. Yates of the University of Maryland presented a lecture titled <q>Linkages</q>.
+After presenting a history of the subject from the common pantograph of
+Scheiner in 1631 to work by J. J. Sylvester, the speaker exhibited several
+working models of linkages designed for line motion, trisection, and the
+description of conics and many higher plane curves. Yates would speak to the
+section again in 1951, at which time he had moved to the U.S. Military Academy
+at West Point. In 1934 J. Alfred Benner of Lafayette College spoke about a
+certain class of curves defined by polar equations.
+</p>
+<p>
+  <ul>
+    <li>
+      <p>
+        <alert>Jacob Alfred Benner</alert> (1900-1974) is a native of
+        Hopewell, PA. He received a bachelors degree from Penn State
+        in 1922 and two masters degrees, one from Lafayette in 1925
+        and another from Columbia four years later. J.  Alfred Benner
+        spent his entire career at Lafayette, being appointed an
+        instructor in 1922 and eventually promoted to full professor
+        in 1950.
+      </p>
+    </li>
+  </ul>
+</p>
+<p>
+In 1933 Heinrich Brinkmann of Swarthmore College spoke about projective
+geometry, a topic also discussed by Penn State’s Frederick Owens in 1937.
+Owens presented an expository paper centered around one theorem: the
+impossibility of constructing three distinct triangles, real or imaginary, for which
+each triangle is in six-fold perspective with each of the others. Helen Owens
+spoke before the section two years later. The fact that the Allegheny Section
+scheduled annual meetings in the spring enabled mathematicians who had
+formerly been active in our section to continue their formal ties.
+</p>
+
+<p><foreign>Algebra/Number Theory</foreign></p>
+<p>
+During the period 1933-1941 there was only one invited lecture at the
+Philadelphia Section that truly fits into the classification of algebra. In the last
+year of the period Heinrich Brinkmann discussed the relations between the
+discriminant of a cubic polynomial and its roots, concluding with an elementary
+proof of a theorem due to Voroni. Since this topic deals with the classical algebra
+of polynomials, it means that the section had still not heard a talk about any part
+of the abstract algebra that was developed in the late 1920s and throughout the
+1930s, even though the acknowledged leader in the field, Emmy Noether, taught
+at Bryn Mawr College from 1933 until 1935. In fact, the renowned algebraist
+Nathan Jacobson replaced Noether at Bryn Mawr, but there is no record of his
+participation in the section either. Edward Kasner of Columbia University gave
+an invited lecture on a related topic at the annual meeting in 1933. Titled
+<q>Polygons and groups,</q> he extended results from a <m>1903</m> <pubtitle>Monthly</pubtitle> article to bi-
+point transformations connected with a given polygon.
+</p>
+<p>
+In spite of a dearth of talks on modern algebra, the period 1933-1941 bore
+witness to five invited lectures on number theory. In the first year Emory P.
+Starke of Rutgers University discussed binomial congruences on a level
+accessible to undergraduate students. Starke continued to be active in sectional
+affairs, serving as chairman for the year 1946-1947. Two of the section’s invited
+talks on number theory were delivered at the 1937 meeting at Haverford College.
+The one by Hans Rademacher was described above; the Rutgers mathematician
+H. S. Grant gave the other, on Farey series. In 1941 Richard P. Bailey of
+Lafayette College gave a talk whose title suggests geometry, <q>The problem of the
+square pyramid,</q> but instead deals with integral solutions of systems of equations
+based on the work of the French number theorist, F. E. A. Lucas.
+</p>
+<p>
+The final lecture on number theory was the opening presentation at the 1939
+meeting held at Lehigh University. The title of D. H. Lehmer’s talk has a very
+modern ring to it, <q>Mechanical aids to the theory of numbers</q>. In it he described
+commercial multiplying machines and their adaptations, punch card equipment,
+sieve and stencil devices, and his own recently constructed electric sieve.
+</p>
+
+<p><foreign>Probability/Statistics</foreign></p>
+<p>
+During the 1930s the section sponsored talks on two emerging areas,
+probability and statistics, by one person, Samuel Stanley Wilks, of Princeton.
+The first talk was given at the 1935 meeting at Penn. Titled <q>Inverse probability
+and fiducial inference,</q> Wilks explained some of the difficulties that arise in
+attempting to apply Bayes’s Theorem on inverse probability to the problem of
+drawing inferences about unknown population parameters from observations, and
+conditions under which such difficulties can be avoided by fiducial arguments.
+</p>
+<p>
+S. S. Wilks spoke a second time five years later, at the 1940 meeting again at
+the University of Pennsylvania. The title of his presentation was <q>Statistics
+involved in College Entrance Examinations</q>. In this invited lecture he discussed
+statistical problems that arise in the construction and reading of examinations,
+particularly those administered by the College Entrance Examination Board.
+Wilks stressed that to secure maximum reliability in an examination with a given
+number of questions, care must be taken to select items of suitable difficulty
+satisfying the subject-matter requirements such that the correct and incorrect
+responses on each pair of questions are highly positively correlated.
+</p>
+<p><foreign>Curriculum/Pedagogy</foreign></p>
+<p>
+Five papers presented at the 1932-1941 annual meetings dealt with some
+aspect of education, two each at the meetings in 1935 and 1938 and one in 1936.
+Three of the lectures concerned the college curriculum exclusively, one focused
+on secondary mathematics, and the remaining one bridged the gap between high
+school and college.
+</p>
+<p>
+At the 1938 meeting, the first hosted by Ursinus, Albert W. Tucker described
+the two one-semester geometry courses he offered at Princeton. One of them,
+called an <q>Introduction to Modern Geometry,</q> was designed for sophomores and
+dealt with geometries characterized by their groups of transformations. The other,
+<q>Elementary Topology,</q> was a course constructed for juniors. It dealt with
+topological properties in two and three dimensions, including the classification of
+2-dimensional manifolds and examples of 3-dimensional manifolds, culminating
+in properties of general topological spaces. By examining manifolds in <m>\cal R^3</m>,
+Tucker anticipated a topic that would earn Fields Medals for four mathematicians
+in the second half of the <m>20^{th}</m> century: John Milnor in 1962, Steven Smale in
+1966, William Thurston in 1982, and Michael Freedman in 1986.
+</p>
+<p>
+In 1936 W. R. Murray of Franklin and Marshall College described the
+undergraduate comprehensive examination developed by the faculty at F &amp; M.
+Murray maintained that although F &amp; M’s system of comprehensive
+examinations offered decided advantages in coordinating a student’s course of
+study, it was more difficult to construct in mathematics than in other areas. In
+spite of observing several desirable gains, <q>the experiment is still too new and the
+operation too imperfect to make any enthusiastic claims for the plan.</q> Apparently
+the system of comprehensive exams flourished until the 1960s, when they began
+to disappear across the college. The major hurdle seemed to be the conundrum of
+the student who, having passed all courses, performed poorly on the
+comprehensive exams. In mathematics, one of the consequences was to lower the
+level of the exam to meet the students’ achievement, clearly not the intention of
+the system. Sometime in the early 1970s Franklin &amp; Marshall eliminated
+comprehensive examinations altogether.
+</p>
+<p>
+At the tenth meeting of the section in 1935, the first at Lafayette College, the
+leadoff speaker was Richard P. Bailey from the host institution. His colleague
+Will Smith, who was chairman of the Section in 1934-1935 and served three
+terms on the Program Committee in the nine-year period under discussion,
+introduced him. The section’s secretary, Perry Caris, described Bailey’s talk in
+one sentence: <q>Doctor Bailey presented the results of a survey of the mathematics
+curricula of the colleges of the Philadelphia Section, calling attention in
+particular to the most prevalent types of curriculum organization and the major
+problems to which they give rise.</q> Unfortunately, no further details were
+provided. Bailey himself had just come to Lafayette that year as an instructor in
+mathematics, and he remained at Lafayette until 1944. Certainly Secretary Caris
+knew about Bailey’s work in mathematics, because Bailey had just completed his
+doctoral dissertation at Penn under James Shohat a few months before delivering
+his invited lecture to the section.
+</p>
+<p>
+At that same meeting Albert G. Rau, the Dean at Moravian College, presented
+his research on the history of the curriculum at Moravian secondary schools and
+at Moravian College. He indicated that teachers in the Moravian schools were
+acquainted with algebra and geometry; these subjects became part of the
+curriculum after 1780. This background enabled Moravian College to add conic
+sections into the curriculum after 1820. Analytic geometry and calculus were
+added after 1860 but were discontinued from about 1870 until 1900, perhaps due
+to the growing tradition at some Lehigh Valley colleges of students burning their
+calculus books at the end of the year. Rau concluded his paper by stating, <q>The
+general question of mathematics in other Pennsylvania German schools can not
+be examined for lack of evidence and is postponed for a later paper.</q> We do not
+know if Dean Rau ever pursued his research further in this direction, but we
+pause to introduce this active member of our section.
+</p>
+<p>
+<ul>
+  <li>
+    <p>
+    <alert>Albert George Rau</alert> (1868-1942) is the only person to speak to our section
+who was a full-time administrator his whole professional life. Born on
+August 7, 1868, in Bethlehem, PA, Rau obtained his bachelors degree from
+Lehigh University in 1888. In spite of graduating shortly before his 20th
+birthday, Rau assumed the position of Superintendent of the Moravian
+Preparatory School that September. He remained in that post until 1909,
+when he was appointed Dean of the Moravian College and Theological
+Seminary. Rau attended school in the evening, resulting in a masters degree
+from Lehigh in 1900 and a Ph.D. from Moravian in 1910. His publications
+show a wide breadth of interest, a trait reflected in his professional
+memberships. Rau not only belonged to the <url href="https://www.maa.org">MAA</url> and the <url href="https://www.ams.org">AMS</url>, but to the
+American Society for Political and Social Science, perhaps being the only
+member in the intersection of these three sets. Except for a one-year leave as
+lecturer on rural sociology at the Teachers College of Columbia University
+in 1927, Rau retained his deanship until his death on February 23, 1942.
+    </p>
+  </li>
+</ul>
+</p>
+<p>
+Being the second speaker at the 1938 meeting, Albert W. Tucker discussed his
+two topology courses before the business meeting, conducted right before lunch.
+After the meal the audience was treated to another lecture dealing with education,
+but this one at the secondary level. The speaker, W. D. Carpenter, a mathematics
+teacher at the private Germantown Academy in Philadelphia, centered his talk
+about two issues. The first was the growing influence of the College Board
+Examinations. Carpenter felt that the inclusion of elementary calculus and
+analytic geometry would cause a lack of thoroughness in the other subjects
+taught, a theme repeated by many college teachers in the 1980s and 1990s. Next
+the speaker addressed criticisms of secondary mathematics, again anticipating
+basic issues that would arise 50 years later. He put the blame for the poor
+preparation of high-school teachers squarely on the shoulders of the college
+faculty themselves, and then he laid out a plan of improved methods in the
+training of future teachers.
+</p>
+
+<p><foreign>Special Topics</foreign></p> 
+<p>
+Four of the talks delivered to the Philadelphia Section in the 1930s do not fit
+into any of the categories above but are too important to overlook. In 1934
+Charles N. Moore presented an invited lecture in which he compared
+mathematics and poetry on the basis of certain common aesthetic elements.
+Moore spent the 1934-35 academic year at the Institute for Advanced Study in
+Princeton on leave from his usual post at the University of Cincinnati. He had
+served as vice-president of the <url href="https://www.maa.org">MAA</url> in 1931.
+</p>
+<p>
+In 1937 Albert Harry Wheeler, a high-school teacher from Worcester,
+Massachusetts, presented a talk titled <q>Stellated polyhedra, illustrated by
+models</q>. In his presentation Wheeler showed by means of paper models some
+unusual transformations of solids. In addition to paper models he showed
+photographs of many forms of stellated polyhedra, probably passing the photos
+among the 57 listeners in the room because overhead projectors were not yet in
+use.
+</p>
+<p>
+The annual meeting at Lehigh in 1939 included two invited lectures on special
+topics. One was by Dr. Elmer Johnson from the Schwenkfelder Library in
+Pennsburg, PA, who exhibited numerous old mathematical books and surveying
+instruments in the library’s collections. He also discussed the history of some of
+those books and instruments, including facts concerning their acquisition.
+</p>
+<p>
+The other lecture was by Penn State’s Helen B. Owens, whose title was
+<q>Mathematics clubs, old and new</q>. We have already discussed Helen and her
+husband, Frederick, during the time Penn State was aligned with the Philadelphia
+Section, and even after the formation of the Allegheny Section in 1933. Here
+Owens suggested various activities that could be used to stimulate interest in
+mathematics among undergraduate students, including the use of problem
+contests, joint club meetings, mathematical exhibits (like the one described by
+Albert Wheeler above), public lectures, and student mathematical publications.
+The section’s Deborah A. Frantz, the indefatigable Kutztown University
+professor who served as EPADEL’s Student Chapter Coordinator throughout the
+1990s, carried out every one of these activities in that decade.
+</p>
+
+</section>
+<section>
+  <title>Profile: Hans Rademacher (1892-1969)</title>
+<idx><h>Profile</h><h>Hans Rademacher</h></idx>
+<p>
+Hans Rademacher was one of several émigré mathematicians to settle in the
+Philadelphia area during the 1930s. Born in Hamburg, Germany, it seemed as if
+this brilliant student would follow in the footsteps of other outstanding research
+mathematicians produced by the country’s superior educational system when he
+obtained his doctorate at Göttingen in 1917 at age 25.
+</p>
+<p>
+From there Rademacher began to climb the steep German academic ladder.
+During 1919-1922 he was a Privatdocent at the University of Berlin. Then he
+moved back to his native Hamburg to become Professor Extraordinarius.
+However, he remained in Hamburg only three years before accepting a position
+as Professor Ordinarius (the equivalent of a full professor) at the University of
+Breslau in 1925. He stayed in Breslau until 1934.
+</p>
+<p>
+That’s when Rademacher’s life changed dramatically. He was a socialist who
+belonged to the International League for the Rights of Man and was president of
+the Breslau chapter of the German Society for Peace, any one of which was
+sufficient to get him fired by the ruling Nazis. He was dismissed
+unceremoniously in 1934.
+</p>
+<p>
+Germany’s loss was the Philadelphia Section’s gain.
+</p>
+<p>
+In the fall of 1934 Rademacher immigrated to the University of Pennsylvania
+as a visiting professor under a joint grant from the Emergency Committee of
+Displaced German Scholars and the Rockefeller Foundation. The head of Penn’s
+graduate program in mathematics at the time, J. R. Kline, certainly knew the
+visitor’s worth. In 1936 Kline convinced Penn authorities to offer Rademacher an
+assistant professorship and tenure. Rademacher accepted, and he ultimately
+stayed at Penn until retirement in 1962, having been promoted to full professor in
+1939.
+</p>
+<p>
+Rademacher’s personal life was not without turmoil, as he married for the
+third time in 1949. But the third time was a charm, his wife being Irma
+Schoenberg Wolpe, the sister of his well-known colleague Isaac J. Schoenberg, a
+faculty member at Penn from 1941 to 1966.
+</p>
+<p>
+In the meantime Rademacher was a member of the Institute for Advanced
+Study in Princeton during 1953 and for the academic year 1960-1961. He also
+spent 1954-1955 in Bombay, India, as a Guggenheim Fellow at the Tata Institute
+for Fundamental Research.
+</p>
+<p>
+During his 28-year stint at Penn Rademacher directed 17 doctoral
+dissertations, more than anyone else at Penn except for J. R. Kline, who directed
+19. (He directed four dissertations in Germany before emigrating.) Rademacher’s
+students have also played significant roles in two EPADEL institutions in
+Philadelphia. His 1959 graduate, Father Frederick Homann, became an institution
+at St. Joseph’s University. But Rademacher’s most enduring influence has been
+on Temple University, where his 1951 graduate, Albert Schild, initiated
+Temple’s Ph.D. program in 1967 and lured another Rademacher student, Emil
+Grosswald, from a professorship at Penn in West Philadelphia to Temple in
+North Philadelphia.
+</p>
+<p>
+Forced retirement from Penn at age 70 did not mean the end of mathematical
+activity for the indefatigable Rademacher. He joined several other notable
+immigrants as a visiting professor at the Courant Institute in New York 1962-
+1964, after which he moved to the Rockefeller University as a visiting professor
+1964-1966 and an affiliate from 1966 until his death three years later. The
+University of Pennsylvania memorialized Rademacher’s name with a prestigious
+lecture series that began in 1978 with talks by Marcel Schutzenberger, I. M.
+Singer, and John Tate, and has numbered several Fields Medallists since then.
+</p>
+</section>
+<section>
+  <title>Profile: James Alexander Shohat (1886-1944)</title>
+<idx><h>Profile</h><h> Shohat, James Alexander (1886-1944)</h></idx>
+<p>
+James A. Shohat (show-hot) was one of several émigrés to settle in the
+Philadelphia area. Born in Brest-Litovsk, Russia, on November 18, 1886, he
+earned two degrees from the University of Petrograd (now St. Petersburg). The
+first, an equivalent of our bachelors degree, was awarded in 1910. Shohat was a
+Fellow there from 1912 to 1916, and from 1913 to 1917 he was an instructor at
+the Polytechnic Institute of Petrograd. The next year he was an instructor at the
+Mining Institute of Petrograd. Then he accepted a professorship at Ural
+University in Ekatherineburg, where he remained until 1921, when he returned to
+Petrograd as a professor at the Pedagogical Institute. He was awarded the degree
+of Magister of Pure Mathematics, the equivalent of our Ph.D., in 1922.
+</p>
+<p>
+Shohat came to the United States the following year. After spending 1923-
+1924 as an assistant at the University of Chicago, he moved to the University of
+Michigan as an assistant professor, a post he held until 1929. Although he
+became a naturalized citizen that year, he moved to Paris for one year to conduct
+research at the Institut Henri Poincaré.
+</p>
+<p>
+James Shohat came to the Philadelphia area in 1930 when J. R. Kline, the
+head of the department at the University of Pennsylvania, hired him as a lecturer.
+That fall Shohat delivered an invited lecture at the annual meeting of the
+Philadelphia Section. The following year he was promoted to assistant professor
+at Penn, where he spent the rest of his career, being promoted to associate
+professor in 1935 and professor in 1942.
+</p>
+<p>
+Throughout the 1930s Shohat delivered four invited talks to the Philadelphia
+Section. He also presented two invited <url href="https://www.ams.org">AMS</url> lectures, in September 1934 in
+Williamstown and in April 1936 in New York. The first was titled, <q>On the
+expansion of functions in series of orthogonal polynomials</q> and the second <q>The
+characterization of a distribution function through its moments</q>. He was the only
+invited speaker at the annual 1934 summer meeting of the <url href="https://www.ams.org">AMS</url> held at Williams
+College.
+</p>
+<p>
+Shohat published numerous important memoirs and one book (written with J.
+D. Tamarkin) on orthogonal polynomials. He wrote several in French for
+Comptes Revues and Russian for Matematica Sbornik, reviewed many articles for
+Zentralblatt, and translated works from Russian. He served as an associate editor
+for the Duke Mathematical Journal since its inception in 1935; he was also an
+associate editor for the <em>Bulletin of the <url href="https://www.ams.org">AMS</url></em>.
+</p>
+<p>
+Shohat resided on Eagle Road in the Manoa section of Upper Darby. He was a
+member of the Orthodox Greek Church there.
+</p>
+<p>
+In July 1944 Shohat came down with a case of pneumonia that developed
+heart problems that caused his death on October 8, 1944, at age 57. He was
+survived by his wife of 22 years, Nadiashda Galli-Shohat, who had received her
+Ph.D. in physics from Göttingen in 1914 and who had taught at Bryn Mawr as
+well as several other colleges.
+</p>
+</section>
+</chapter>

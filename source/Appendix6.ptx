@@ -1,0 +1,483 @@
+<appendix>
+  <title>Meetings</title>
+  <section><title>Spring Meetings</title>
+  <table xml:id="TableSpringMeetings"><title>Spring Meetings</title>
+    <tabular>
+      <row>
+        <cell bottom="major">
+        </cell>
+        <cell bottom="major">
+        </cell>
+        <cell bottom="major">
+        </cell>
+      </row>
+      <row>
+        <cell halign="left" bottom="minor">
+No.
+        </cell>
+        <cell halign="left" bottom="minor">
+Date
+        </cell>
+        <cell halign="left" bottom="minor">
+Location
+        </cell>
+      </row>
+      <row>
+        <cell>   </cell><cell>   April 12, 1975     </cell><cell>     Lebanon Valley           </cell>
+      </row>
+      <row>
+        <cell>   </cell><cell>   October 4, 1975    </cell><cell>     Rosemont                 </cell>
+      </row>
+      <row>
+        <cell>1   </cell><cell>   April 10, 1976     </cell><cell>     Gettysburg               </cell>
+      </row>
+      <row>
+        <cell>2   </cell><cell>   April 23, 1977     </cell><cell>     Kutztown                 </cell>
+      </row>
+      <row>
+        <cell>3   </cell><cell>   April 8, 1978      </cell><cell>     Ursinus                  </cell>
+      </row>
+      <row>
+        <cell>4   </cell><cell>   April 28, 1979     </cell><cell>     Penn                     </cell>
+      </row>
+      <row>
+        <cell>5   </cell><cell>   April 26, 1980     </cell><cell>     Cedar Crest              </cell>
+      </row>
+      <row>
+        <cell>6   </cell><cell>   April 4, 1981      </cell><cell>     Penn State - Ogontz      </cell>
+      </row>
+      <row>
+        <cell>7   </cell><cell>   April 17, 1982     </cell><cell>     Albright                 </cell>
+      </row>
+      <row>
+        <cell>8   </cell><cell>   April 9, 1983      </cell><cell>     Millersville             </cell>
+      </row>
+      <row>
+        <cell>9   </cell><cell>   March 31, 1984     </cell><cell>     Lehigh                   </cell>
+      </row>
+      <row>
+        <cell>10  </cell><cell>   March 30, 1985     </cell><cell>     Bloomsburg               </cell>
+      </row>
+      <row>
+        <cell>11  </cell><cell>   April 5, 1986      </cell><cell>     West Chester             </cell>
+      </row>
+      <row>
+        <cell>12  </cell><cell>   April 4, 1987      </cell><cell>     Moravian                 </cell>
+      </row>
+      <row>
+        <cell>13  </cell><cell>   April 9, 1988      </cell><cell>     Ursinus                  </cell>
+      </row>
+      <row>
+        <cell>14  </cell><cell>   April 8, 1989      </cell><cell>     Penn                     </cell>
+      </row>
+      <row>
+        <cell>15  </cell><cell>   April 7, 1990      </cell><cell>     Swarthmore               </cell>
+      </row>
+      <row>
+        <cell>16  </cell><cell>   April 6, 1991      </cell><cell>     LaSalle                  </cell>
+      </row>
+      <row>
+        <cell>17  </cell><cell>   April 11, 1992     </cell><cell>     Messiah                  </cell>
+      </row>
+      <row>
+        <cell>18 </cell><cell> April 3, 1993 </cell><cell> Villanova
+        </cell>
+      </row>
+      <row>
+        <cell>19  </cell><cell>   March 12, 1994     </cell><cell>     Harrisburg Area CC       </cell>
+      </row>
+      <row>
+        <cell>20  </cell><cell>   April 8, 1995      </cell><cell>     King’s College           </cell>
+      </row>
+      <row>
+        <cell>21  </cell><cell>   April 13, 1996     </cell><cell>     Millersville             </cell>
+      </row>
+      <row>
+        <cell>22  </cell><cell>   April 19, 1997     </cell><cell>     Ursinus                  </cell>
+      </row>
+      <row>
+        <cell>23  </cell><cell>   April 18, 1998     </cell><cell>     Shippensburg             </cell>
+      </row>
+      <row>
+        <cell>24  </cell><cell>   April 10, 1999     </cell><cell>     Villanova                </cell>
+      </row>
+      <row>
+        <cell>25  </cell><cell>   April 8, 2000      </cell><cell>     Messiah                  </cell>
+      </row>
+      <row>
+        <cell bottom="minor">
+        </cell>
+        <cell bottom="minor">
+        </cell>
+        <cell bottom="minor">
+        </cell>
+      </row>
+    </tabular>
+  </table>
+</section>
+
+<section><title>Fall Meetings</title>
+    <table xml:id="TableFallMeetings"><title>Table FallMeetings</title>
+      <tabular>
+        <row>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+          <cell bottom="major">
+          </cell>
+        </row>
+        <row>
+             <cell halign="left" bottom="minor">
+No.
+          </cell>
+          <cell halign="left" bottom="minor">
+Date
+          </cell>
+             <cell halign="left" bottom="minor">
+Location
+          </cell>
+          <cell halign="left" bottom="minor">
+No.
+          </cell>
+          <cell halign="left" bottom="minor">
+Date
+          </cell>
+             <cell halign="left" bottom="minor">
+Location
+          </cell>
+        </row>
+<row>
+<cell>1</cell><cell>       Nov 27, 1926  </cell><cell>  Lehigh               </cell><cell>   40</cell><cell>   Nov 20, 1965 </cell><cell>  West Chester            </cell>
+</row>
+<row>
+<cell>2</cell><cell>       Nov 26, 1927  </cell><cell>  Penn                 </cell><cell>   41</cell><cell>   Nov 19, 1966 </cell><cell>  Villanova               </cell>
+</row>
+<row>
+<cell>3</cell><cell>       Dec 1, 1928   </cell><cell>  Penn                 </cell><cell>   42</cell><cell>   Nov 18, 1967 </cell><cell>  Delaware                </cell>
+</row>
+<row>
+<cell>4</cell><cell>       Nov 30, 1929  </cell><cell>  Penn                 </cell><cell>   43</cell><cell>   Nov 23, 1968 </cell><cell>  Drexel                  </cell>
+</row>
+<row>
+<cell>5</cell><cell>       Nov 29, 1930  </cell><cell>  Penn                 </cell><cell>   44</cell><cell>   Nov 22, 1969 </cell><cell>  Swarthmore              </cell>
+</row>
+<row>
+<cell>6</cell><cell>       Nov 28, 1931  </cell><cell>  Lehigh               </cell><cell>   45</cell><cell>   Nov 21, 1970 </cell><cell>  West Chester            </cell>
+</row>
+<row>
+<cell>7</cell><cell>       Nov 26, 1932  </cell><cell>  Swarthmore           </cell><cell>   46</cell><cell>   Nov 20, 1971 </cell><cell>  Lafayette               </cell>
+</row>
+<row>
+<cell>8</cell><cell>       Dec 2, 1933   </cell><cell>  NJ Coll for Women    </cell><cell>   47</cell><cell>   Nov 18, 1972 </cell><cell>  Lebanon Valley          </cell>
+</row>
+<row>
+<cell>9</cell><cell>       Dec 1, 1934   </cell><cell>  Penn                 </cell><cell>   48</cell><cell>   Nov 17, 1973 </cell><cell>  Drexel                  </cell>
+</row>
+<row>
+<cell>10</cell><cell>      Nov 30, 1935  </cell><cell>  Lafayette            </cell><cell>   49</cell><cell>   Nov 23, 1974 </cell><cell>  Swarthmore              </cell>
+</row>
+<row>
+<cell>11</cell><cell>      Nov 28, 1936  </cell><cell>  Penn                 </cell><cell>   50</cell><cell>   Nov 22, 1975 </cell><cell>  F &amp; M                   </cell>
+</row>
+<row>
+<cell>12</cell><cell>      Nov 27, 1937  </cell><cell>  Haverford            </cell><cell>   51</cell><cell>   Nov 20, 1976 </cell><cell>  MCCC                    </cell>
+</row>
+<row>
+<cell>13</cell><cell>      Nov 23, 1938  </cell><cell>  Ursinus              </cell><cell>   52</cell><cell>   Nov 19, 1977 </cell><cell>  Moravian                </cell>
+</row>
+<row>
+<cell>14</cell><cell>      Dec 2, 1939   </cell><cell>  Lehigh               </cell><cell>   53</cell><cell>   Nov 18, 1978 </cell><cell>  Millersville            </cell>
+</row>
+<row>
+<cell>15</cell><cell>      Nov 30, 1940  </cell><cell>  Penn                 </cell><cell>   54</cell><cell>   Nov 17, 1979 </cell><cell>  Drexel                  </cell>
+</row>
+<row>
+<cell>16</cell><cell>      Nov 29, 1941  </cell><cell>  Swarthmore           </cell><cell>   55</cell><cell>   Nov 22, 1980 </cell><cell>  Delaware                </cell>
+</row>
+<row>
+<cell>17</cell><cell>      Nov 28, 1942  </cell><cell>  Penn                 </cell><cell>   56</cell><cell>   Nov 21, 1981 </cell><cell>  Villanova               </cell>
+</row>
+<row>
+<cell>18</cell><cell>      Nov 27, 1943  </cell><cell>  Penn                 </cell><cell>   57</cell><cell>   Nov 20, 1982 </cell><cell>  West Chester            </cell>
+</row>
+<row>
+<cell>19</cell><cell>      Dec 2, 1944   </cell><cell>  Penn                 </cell><cell>   58</cell><cell>   Nov 19, 1983 </cell><cell>  Bryn Mawr               </cell>
+</row>
+<row>
+<cell>20</cell><cell>      Dec 1, 1945   </cell><cell>  Penn                 </cell><cell>   59</cell><cell>   Nov 17, 1984 </cell><cell>  Swarthmore              </cell>
+</row>
+<row>
+<cell>21</cell><cell>      Nov 30, 1946  </cell><cell>  Penn                 </cell><cell>   60</cell><cell>   Nov 23, 1985 </cell><cell>  Temple                  </cell>
+</row>
+<row>
+<cell>22</cell><cell>      Nov 29, 1947  </cell><cell>  Bryn-Mawr            </cell><cell>   61</cell><cell>   Nov 23, 1986 </cell><cell>  Drexel                  </cell>
+</row>
+<row>
+<cell>23</cell><cell>      Nov 27, 1948  </cell><cell>  Penn                 </cell><cell>   62</cell><cell>   Nov 21, 1987 </cell><cell>  F &amp; M                   </cell>
+</row>
+<row>
+<cell>24</cell><cell>      Nov 26, 1949  </cell><cell>  Haverford            </cell><cell>   63</cell><cell>   Nov 19, 1988 </cell><cell>  Penn State - Ogontz     </cell>
+</row>
+<row>
+<cell>25</cell><cell>      Nov 25, 1950  </cell><cell>  Lehigh               </cell><cell>   64</cell><cell>   Nov 4, 1989  </cell><cell>  Millersville            </cell>
+</row>
+<row>
+<cell>26</cell><cell>      Nov 24, 1951  </cell><cell>  Penn                 </cell><cell>        Oct</cell><cell> 13, 1990 </cell><cell>  Comm. Coll. Phila.      </cell>
+</row>
+<row>
+<cell>27</cell><cell>      Nov 29, 1952  </cell><cell>  Delaware             </cell><cell>   65</cell><cell>   Nov 10, 1990 </cell><cell>  Delaware                </cell>
+</row>
+<row>
+<cell>28</cell><cell>      Nov 29, 1953  </cell><cell>  Drexel               </cell><cell>   66</cell><cell>   Nov 9, 1991  </cell><cell>  Drexel                  </cell>
+</row>
+<row>
+<cell>29</cell><cell>      Nov 27, 1954  </cell><cell>  Princeton            </cell><cell>   67</cell><cell>   Nov 14, 1992 </cell><cell>  Muhlenberg              </cell>
+</row>
+<row>
+<cell>30</cell><cell>      Nov 26, 1955  </cell><cell>  Penn                 </cell><cell>   68</cell><cell>   Nov 13, 1993 </cell><cell>  Cedar Crest             </cell>
+</row>
+<row>
+<cell>31</cell><cell>      Nov 24, 1956  </cell><cell>  Muhlenberg           </cell><cell>   69</cell><cell>   Nov 5, 1994  </cell><cell>  Mont. Co. CC            </cell>
+</row>
+<row>
+<cell>32</cell><cell>      Nov 30, 1957  </cell><cell>  Haverford            </cell><cell>   70</cell><cell>   Nov 4, 1995  </cell><cell>  Penn State - Ogontz     </cell>
+</row>
+<row>
+<cell>33</cell><cell>      Nov 29, 1958  </cell><cell>  Lehigh               </cell><cell>   71</cell><cell>   Oct 26, 1996 </cell><cell>  Delaware State          </cell>
+</row>
+<row>
+<cell>34</cell><cell>      Nov 28, 1959  </cell><cell>  Delaware             </cell><cell>   72</cell><cell>   Nov 1, 1997  </cell><cell>  Penn                    </cell>
+</row>
+<row>
+<cell>35</cell><cell>      Nov 26, 1960  </cell><cell>  Swarthmore           </cell><cell>   73</cell><cell>   Nov 7, 1998  </cell><cell>  Lehigh                  </cell>
+</row>
+<row>
+<cell>36</cell><cell>      Nov 25, 1961  </cell><cell>  Ursinus              </cell><cell>   74</cell><cell>   Nov 6, 1999  </cell><cell>  Elizabethtown           </cell>
+</row>
+<row>
+<cell>37</cell><cell>      Nov 24, 1962  </cell><cell>  F &amp; M             </cell><cell>   75</cell><cell>   Nov 4, 2000  </cell><cell>  Penn State - Abington   </cell>
+</row>
+<row>
+<cell>38</cell><cell>      Nov 23, 1963</cell><cell>  Haverford  </cell>
+</row>
+<row>
+<cell>39</cell><cell>      Nov 21, 1964 </cell><cell>  Drexel     </cell>
+</row>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <row>
+          <cell bottom="minor">
+          </cell>
+          <cell bottom="minor">
+          </cell>
+          <cell bottom="minor">
+          </cell>
+          <cell bottom="minor">
+          </cell>
+          <cell bottom="minor">
+          </cell>
+          <cell bottom="minor">
+          </cell>
+        </row>
+      </tabular>
+    </table>
+</section>
+</appendix>

@@ -1,0 +1,1624 @@
+
+<section><title>Section Officers</title>
+
+<table xml:id="SectionOfficers"><title>Elected Officers</title>
+<tabular break="yes">
+  <col width="10%"/>
+  <col width="10%"/>
+  <col width="20%"/>
+  <col width="20%"/>
+  <col width="20%"/>
+  <col width="20%"/>
+  <row>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+  </row>
+  <row>
+    <cell halign="left" bottom="minor">
+      <alert>Year</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>President</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Vice President</alert>
+    </cell>
+    <cell halign="left" bottom="minor" colspan="2">
+      <alert>      Secretary-Treasurer</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Governor</alert>
+    </cell>
+  </row>
+
+  <row>
+    <cell>1999</cell>
+    <cell>
+      <xref ref="EnsleyBio" text="custom">Ensley</xref>
+    </cell>
+    <cell><xref ref="CrannellBio" text="custom">Crannell</xref></cell>
+    <cell  colspan="2" halign="center"><xref ref="WagnerBio">Wagner</xref></cell>
+    <cell><xref ref="HillBio" text="custom">Hill</xref></cell>
+  </row>
+  <row>
+    <cell>
+      2000
+    </cell>
+    <cell>
+      <xref ref="EnsleyBio" text="custom">Ensley</xref>
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+    <cell colspan="2" halign="center">
+      <xref ref="WagnerBio">Wagner</xref> 
+    </cell>
+    <cell>
+      <xref ref="HillBio" text="custom">Hill</xref>
+    </cell>
+  </row>
+
+  <row>
+    <cell>
+      2001
+    </cell>
+    <cell><xref ref="CrannellBio" text="custom">Crannell</xref></cell>
+    <cell><xref ref="DeTurckBio"  text="custom">DeTurck</xref></cell>
+    <cell colspan="2" halign="center"><xref ref="WagnerBio">Wagner</xref></cell>
+    <cell><xref ref="HillBio" text="custom">Hill</xref></cell>
+  </row>
+
+  <row>
+    <cell>
+      2002
+    </cell>
+    <cell><xref ref="CrannellBio" text="custom">Crannell</xref></cell>
+    <cell><xref ref="DeTurckBio"  text="custom">DeTurck</xref></cell>
+    <cell colspan="2" halign="center">Reilly</cell>
+    <cell><xref ref="SomersBio" text="custom">Somers</xref></cell>
+  </row>
+
+  <row>
+    <cell>
+      2003
+    </cell>
+    <cell><xref ref="DeTurckBio"  text="custom">DeTurck</xref></cell>
+    <cell><xref ref="MeierBio" text="custom">Meier</xref></cell>
+    <cell colspan="2" halign="center">Reilly</cell>
+    <cell><xref ref="SomersBio" text="custom">Somers</xref></cell>
+  </row>
+
+  <row>
+    <cell>
+      2004
+    </cell>
+    <cell><xref ref="DeTurckBio"  text="custom">DeTurck</xref></cell>
+    <cell><xref ref="MeierBio" text="custom">Meier</xref></cell>
+    <cell colspan="2" halign="center">Reilly</cell>
+    <cell><xref ref="EnsleyBio" text="custom">Ensley</xref></cell>
+  </row>
+
+  <row>
+    <cell>2005</cell>
+    <cell><xref ref="MeierBio" text="custom">Meier</xref></cell>
+    <cell><xref ref="StyerBio" text="custom">Styer</xref></cell>
+    <cell colspan="2" halign="center">McGivney</cell>
+    <cell><xref ref="EnsleyBio" text="custom">Ensley</xref></cell>
+  </row>
+
+  <row>
+    <cell>2006</cell>
+    <cell><xref ref="MeierBio" text="custom">Meier</xref></cell>
+    <cell><xref ref="StyerBio" text="custom">Styer</xref></cell>
+    <cell colspan="2" halign="center">McGivney</cell>
+    <cell><xref ref="EnsleyBio" text="custom">Ensley</xref></cell>
+  </row>
+
+
+
+  <row>
+    <cell>
+      2007
+    </cell>
+    <cell>
+      <xref ref="MeierBio" text="custom">Meier</xref>
+    </cell>
+    <cell>
+      <xref ref="StyerBio" text="custom">Styer</xref>
+    </cell>
+    <cell colspan="2" halign="center">
+      McGivney 
+    </cell>
+    <cell>
+      <xref ref="EnsleyBio" text="custom">Ensley</xref>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2008
+    </cell>
+    <cell>
+      <xref ref="StyerBio" text="custom">Styer</xref>
+    </cell>
+    <cell>
+      <xref ref="MaranoBio" text="custom">Marano</xref>
+    </cell>
+    <cell colspan="2" halign="center">
+      McGiveny 
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2009
+    </cell>
+    <cell>
+      <xref ref="StyerBio" text="custom">Styer</xref>
+    </cell>
+    <cell>
+      <xref ref="MaranoBio" text="custom">Marano</xref>
+    </cell>
+    <cell colspan="2" halign="center">
+      McGivney 
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+  </row>
+  <row>
+    <cell colspan="6" bottom="major">
+    </cell>
+    <!-- <cell bottom="major"> -->
+    <!-- </cell> -->
+    <!-- <cell bottom="major"> -->
+    <!-- </cell> -->
+    <!-- <cell bottom="major"> -->
+    <!-- </cell> -->
+    <!-- <cell bottom="major"> -->
+    <!-- </cell> -->
+    <!-- <cell bottom="major"> -->
+    <!-- </cell> -->
+  </row>
+  <row bottom="major">
+    <cell>
+    </cell>
+    <cell colspan="4">
+      <p>
+        In <m>2010</m> the office of the Secretary-Treasurer was split into two distinct
+        offices.
+      </p>
+    </cell>
+    <cell>
+    </cell>  
+  </row>
+  <row>
+    <cell halign="left" bottom="minor">
+      <alert>Year</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      President</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Vice President</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>Secretary</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>Treasurer</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Governor</alert>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2010
+    </cell>
+    <cell>
+      <xref ref="MaranoBio" text="custom">Marano</xref>
+    </cell>
+    <cell>
+      Hartshorn
+    </cell>
+    <cell halign="center">
+      Jones 
+    </cell>
+    <cell halign="center">
+      Sullivan 
+    </cell>
+    <cell>
+      Dunham, W.
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2011
+    </cell>
+    <cell>
+      <xref ref="MaranoBio" text="custom">Marano</xref>
+    </cell>
+    <cell>
+      Hartshorn
+    </cell>
+    <cell halign="center">
+      Jones 
+    </cell>
+    <cell halign="center">
+      Sullivan 
+    </cell>
+    <cell>
+      Dunham, W.
+    </cell>
+  </row>
+  <row>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+  </row>
+  <row bottom="major">
+    <cell>
+    </cell>
+    <cell colspan="4">
+      <p>
+        In <m>2012</m> the offices of the Presdent and Vice
+        President became the Chair and Vice Chair, respectively.
+      </p>
+    </cell>
+    <cell>
+    </cell>  
+  </row>
+  <row>
+    <cell halign="left" bottom="minor">
+      <alert>Year</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>Chair</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>Vice Chair</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Secretary</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Treasurer</alert>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>      Governor</alert>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2012
+    </cell>
+    <cell>
+      Hartshorn
+    </cell>
+    <cell>
+      Bryant
+    </cell>
+    <cell halign="center">
+      Jones 
+    </cell>
+    <cell halign="center">
+      Sullivan 
+    </cell>
+    <cell>
+      Dunham, W.
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2013
+    </cell>
+    <cell>
+      Hartshorn
+    </cell>
+    <cell>
+      Bryant
+    </cell>
+    <cell halign="center">
+      Jones 
+    </cell>
+    <cell halign="center">
+      Sullivan 
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2014
+    </cell>
+    <cell>
+      Bryant
+    </cell>
+    <cell>
+      <xref ref="BomanBio" text="custom">Boman</xref>
+    </cell>
+    <cell halign="center">
+      Jones 
+    </cell>
+    <cell halign="center">
+      McGuire 
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2015
+    </cell>
+    <cell>
+      Bryant
+    </cell>
+    <cell>
+      <xref ref="BomanBio" text="custom">Boman</xref>
+    </cell>
+    <cell halign="center">
+      <xref ref="EnsleyBio" text="custom">Ensley </xref>
+    </cell>
+    <cell halign="center">
+      McGuire 
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2016
+    </cell>
+    <cell>
+      <xref ref="BomanBio" text="custom">Boman</xref>
+    </cell>
+    <cell>
+      Catepillan
+    </cell>
+    <cell halign="center">
+      <xref ref="EnsleyBio" text="custom">Ensley </xref>
+    </cell>
+    <cell halign="center">
+      McGuire 
+    </cell>
+    <cell>
+      <xref ref="CrannellBio" text="custom">Crannell</xref>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2017
+    </cell>
+    <cell>
+      <xref ref="BomanBio" text="custom">Boman</xref>
+    </cell>
+    <cell>
+      Catepillan
+    </cell>
+    <cell halign="center">
+      <xref ref="EnsleyBio" text="custom">Ensley </xref>
+    </cell>
+    <cell halign="center">
+      McGuire 
+    </cell>
+    <cell>
+      <p>
+      <xref ref="MaranoBio" text="custom">Marano<fn>
+            Marano's term was left incomplete when she became Chair of the
+            national Committee on Sections.
+</fn>
+</xref>
+        <!-- <aside> -->
+        <!--   <title>Note</title> -->
+        <!--   <p> -->
+        <!--     Marano's term was left incomplete when she became Chair of the -->
+        <!--     national Committee on Sections. -->
+        <!--   </p> -->
+        <!-- </aside> -->
+      </p>
+    </cell>
+  </row>
+  <row>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+    <cell bottom="major">
+    </cell>
+  </row>
+  <row bottom="major">
+    <cell>
+    </cell>
+    <cell colspan="4">
+      <p>
+        In <m>2018</m> the office of the Governor became the Section
+        Representative.
+      </p>
+    </cell>
+    <cell>
+    </cell>
+  </row>
+  <row>
+    <cell halign="left">
+      <alert>Year</alert>
+    </cell>
+    <cell halign="left">
+      <alert>Chair</alert>
+    </cell>
+    <cell halign="left">
+      <alert>      Vice Chair</alert>
+    </cell>
+    <cell halign="left">
+      <alert>      Secretary</alert>
+    </cell>
+    <cell halign="left">
+      <alert>      Treasurer</alert>
+    </cell>
+    <cell halign="left">
+      <alert>Section</alert>
+    </cell>
+  </row>
+  <row bottom="minor">
+    <cell>
+    </cell>
+    <cell>
+    </cell>
+    <cell>
+    </cell>
+    <cell>
+    </cell>
+    <cell>
+    </cell>
+    <cell halign="left" bottom="minor">
+      <alert>Representative</alert>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2018
+    </cell>
+    <cell>
+      Catepillan
+    </cell>
+    <cell>
+      <xref ref="PanofskyBio">Panofsky</xref>
+    </cell>
+    <cell halign="center">
+      <xref ref="EnsleyBio" text="custom">Ensley </xref>
+    </cell>
+    <cell halign="center">
+      McGuire 
+    </cell>
+    <cell>
+      <p>
+        <xref ref="BomanBio" text="custom">Boman<fn>
+            Boman was appointed by the Chair to fill out Marano's
+            incompleted term.
+</fn></xref>
+        <!-- <aside> -->
+        <!--   <title>Note</title> -->
+        <!--   <p> -->
+        <!--     Boman was appointed by the Chair to fill out Marano's -->
+        <!--     incompleted term. -->
+        <!--   </p> -->
+        <!-- </aside> -->
+      </p>
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2019
+    </cell>
+    <cell>
+      Catepillan
+    </cell>
+    <cell>
+      <xref ref="PanofskyBio">Panofsky</xref>
+    </cell>
+    <cell halign="center">
+      Kronenthal
+    </cell>
+    <cell halign="center">
+      Ryan
+    </cell>
+    <cell>
+      Sullivan
+    </cell>
+  </row>
+  <row>
+    <cell>
+      2020
+    </cell>
+    <cell>
+      <xref ref="PanofskyBio">Panofsky</xref>
+    </cell>
+    <cell>
+      Droms
+    </cell>
+    <cell halign="center">
+      Kronenthal
+    </cell>
+    <cell halign="center">
+      Ryan
+    </cell>
+    <cell>
+      Sullivan
+    </cell>
+  </row>  
+  <row>
+    <cell>
+      2021
+    </cell>
+    <cell>
+      <xref ref="PanofskyBio">Panofsky</xref>
+    </cell>
+    <cell>
+      Droms
+    </cell>
+    <cell halign="center">
+      Kronenthal
+    </cell>
+    <cell halign="center">
+      Ryan
+    </cell>
+    <cell>
+      Sullivan
+    </cell>
+  </row>  
+  <row>
+    <cell>
+      202
+    </cell>
+    <cell>
+      Droms
+    </cell>
+    <cell>
+      Janoski
+    </cell>
+    <cell halign="center">
+      Kronenthal
+    </cell>
+    <cell halign="center">
+      Ryan
+    </cell>
+    <cell>
+      McGuire
+    </cell>
+  </row>  
+</tabular>
+</table>
+<p>
+  We provide sketches of all presidents (in the order of their terms).
+</p> 
+<p>
+  <ul>
+    <!--     <li xml:id="EnsleyBio"> -->
+    <!--       <p> -->
+    <!--         <alert> -->
+    <!--           Douglas Edward Ensley -->
+    <!--         </alert> -->
+    <!--         <aside> -->
+    <!--           <title></title> -->
+    <!--           <p> -->
+    <!--             Ph.D. Adviser: Michael Henry Albert -->
+    <!--           </p> -->
+    <!--           <p> -->
+    <!--             Dissertation Title: <pubtitle> -->
+    <!--             Measures on <m>\aleph_0</m>-Categorical Structures -->
+    <!--           </pubtitle> -->
+    <!--           </p> -->
+    <!--         </aside> -->
+    <!--       </p> -->
+    <!--     </li> -->
+    <!--     <li xml:id="CrannellBio"> -->
+    <!--       <p> -->
+    <!--         <alert> -->
+    <!--           Annalisa Crannell -->
+    <!--         </alert> -->
+    <!--         <aside> -->
+    <!--           <title></title> -->
+    <!--           <p> -->
+    <!--             Ph.D. Adviser: Walter Craig -->
+    <!--           </p> -->
+    <!--           <p> -->
+    <!--             Dissertation Title: <pubtitle> Existence of Many Periodic -->
+    <!--             Non-travelling Solutions to the Boussinesq Equation -->
+    <!--           </pubtitle> -->
+    <!--           </p> -->
+    <!--         </aside> -->
+    <!--         earned her BA (Magma Cum Laude) from Bryn Mawr College in -->
+    <!--         1985 and her Ph.D. from Brown Universty in 1992. -->
+    <!--       </p> -->
+    <!--       <p> -->
+    <!--         Annalisa has been an active member of EPaDel since -->
+    <!--         <m>2001</m>. -->
+    <!--       </p> -->
+    <!--     </li> -->
+    <li xml:id="MeierBio">
+      <p>
+        <alert>John Meier</alert> 
+        <aside>
+          <p>
+            Ph.D. Adviser: Kenneth Brown
+          </p>
+          <p>
+            Dissertation Title: <pubtitle> Endomorphisms of
+            Negatively-Curved Polygonal Groups</pubtitle>
+          </p>
+        </aside>
+        earned his BA from the University of Virginia in 1987, and his
+        MS and Ph.D.  from Cornell University in 1990 and 1992,
+        respectively).
+      </p>
+      <p>
+        John joined Lafayette College in <m>1992</m> and has been
+        an active member of  EPaDel since <m>2003</m>.
+      </p>
+    </li>
+    <li xml:id="StyerBio">
+      <p>
+        <alert>Robert Alan Styer</alert>
+        <aside>
+          <p>
+            Ph.D. Adviser: Harold Stark
+          </p>
+          <p>
+            Dissertation Title: <pubtitle>
+            Hecke Theory over Complex Quadratic Fields
+          </pubtitle>
+          </p>
+        </aside>
+        earned his BA (double major in mathematics and physics, Cumma Sum Laude) from the
+        University of Pennsylvania in <m>1977</m>, and his Ph.D. from the
+        Massachusetts Institute of Technology in <m>1981</m>.
+      </p>
+      <p>
+        Robert has been an active member of EPaDel since <m>1999.</m>
+      </p>
+    </li>
+    <li xml:id="MaranoBio">
+      <p>
+        <alert> Lisa Marano </alert> 
+        <aside>
+          <p>
+            Ph.D. Adviser:       Vladimir Dobric
+          </p>
+          <p>
+            Dissertation Title: <pubtitle> On the Global and Local Moduli of Continuity of Brownian Motion</pubtitle>
+          </p>
+        </aside>
+        was born in Camden, New Jersey, and attended Rider
+        College with a major in Mathematics and Secondary Education
+        before doing her graduate work at Lehigh University. In 2002,
+        she completed her PhD in Probability and Mathematical Finance
+        under the direction of Vladimir Dobric.
+      </p>
+      <p>
+        Lisa took a tenure-track position at LaSalle University
+        immediately upon graduation from Lehigh University, but the
+        following year she moved into a tenure-track position at West
+        Chester University. She has remained at WCU to this date,
+        moving through the academic ranks and founding the West
+        Chester University Actuarial Science program. She is currently
+        Associate Dean for the College of Mathematics and Sciences.
+      </p>  
+      Within EPADEL, Lisa served in the elected positions
+      of Vice Chair, Chair, and Section Representative after a term
+      as an at-large member of the EPADEL Executive Committee from
+      2005 – 2007. Before that she worked alongside Kate McGivney as
+      coordinator of EPADEL Section NExT, including securing some
+      funding for joint programming with AMATYC’s Project
+      ACCCESS. 
+      <p>
+        Lisa has the distinction of being in the role of
+        Section President when the 2008 By Laws update changed the
+        title to Chair, and she was in the role of Section Governor
+        when the 2017 MAA By Laws update changed that title to Section
+        Representative to MAA Congress. Since 2018 Lisa has sat on the
+        MAA Board of Directors in her role as the Chair of the
+        Committee on Sections.
+        <!-- </p> -->
+        <!--   was born in Camden, New Jersey, and attended Rider -->
+        <!--   College with a major in Mathematics and Secondary -->
+        <!--   Education. In 2002, she completed her PhD in Probability and -->
+        <!--   Mathematical Finance at Lehigh University under the direction -->
+        <!--   of Vladimir Dobric. -->
+        <!-- </p> -->
+        <!-- <p> -->
+        <!-- Lisa joined LaSalle University as an assistant professor -->
+        <!-- immediately upon graduating from Lehigh. The following year she -->
+        <!-- moved into a tenure-track position at West Chester -->
+        <!-- University. At WCU she moved through -->
+        <!-- the academic ranks and founding the West Chester University -->
+        <!-- Actuarial Science program. She is currently Associate Dean for -->
+        <!-- the College of Mathematics and Sciences. Within EPADEL, Lisa -->
+        <!-- served in the elected positions of Vice Chair, Chair, and -->
+        <!-- Section Representative after a term as an at-large member of the -->
+        <!-- EPADEL Executive Committee from 2005 – 2007. Before that she -->
+        <!-- worked alongside Kate McGivney as coordinator of EPADEL Section -->
+        <!-- NExT, including securing some funding for joint programming with -->
+        <!-- AMATYC’s Project ACCCESS. Lisa has the distinction of being in -->
+        <!-- the role of Section President when the 2008 By Laws update -->
+        <!-- changed the title to Chair, and she was in the role of Section -->
+        <!-- Governor when the 2017 MAA By Laws update changed that title to -->
+        <!-- Section Representative to MAA Congress. Since 2018 Lisa has sat -->
+        <!-- on the MAA Board of Directors in her role as the Chair of the -->
+        <!-- Committee on Sections. -->
+        <!-- </p> -->
+      </p>
+
+
+    </li>
+    <li xml:id="HartshornBio">
+      <alert> Kevin Hartshorn </alert>
+    </li>
+    <li xml:id="BryantBio">
+      <alert>Lance Bryant </alert>
+    </li>
+    <li xml:id="BomanBio">
+      <p> 
+        <alert>
+          Eugene (Bud) Boman 
+        </alert> 
+        <aside>
+          <p>
+            Ph.D. Adviser: Israel Koltracht
+          </p>
+          <p>
+            Dissertation Title: <pubtitle> Fast Algorithms for Toeplitz Equations</pubtitle>
+          </p>
+        </aside>
+        earned his BA in Mathematics from Reed College in 1984, his MA
+        and PhD from the University of Connecticut in 1986 and 1993,
+        respectively. In 1996 he became an Assistant Professor at the
+        DuBois campus of Penn State and joined the Allegheny Mountain
+        Section of the MAA where he served in various leadership roles
+        between 1996 and 2006 when he moved to Penn State’s Harrisburg
+        campus (Capital College). Because Penn State campuses are
+        split between two MAA sections this move made him a member of
+        the EPADEL section, where he remained for the duration of his
+        career.
+      </p>
+      <p>
+        He served on the EPADEL Executive Board as the book table coordinator,
+        as a Member-At-Large, Vice Chair, and Chair. He was appointed the
+        first Section Historian when that position was created in 2011.
+      </p>
+      <p>
+        Bud was one of the 2008 recipients of the MAA’s Carl B. Allendorfer
+        Award for his paper, <pubtitle><url href="https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/seiple104.pdf" visual="">Mom! There's an Astroid in My Closet!</url></pubtitle>
+        (Mathematics Magazine, vol. 80, (2007), pp. 104-111)
+      </p> 
+    </li>
+    <li xml:id="CatepillanBio">
+      <alert>Ximena Catepillan </alert>
+    </li>
+    <li xml:id="PanofskyBio">
+      <p>
+        <alert>
+          Ellen Panofsky
+        </alert>
+        <aside>
+          <p>
+            Ph.D. Adviser: Garth Isaak
+          </p>
+          <p>
+            Dissertation Title: <pubtitle>Graph Labeling Problems with Distance Conditions</pubtitle>
+          </p>
+          </aside>      was raised outside of Philadelphia, PA (specifically in the towns of
+          Bensalem and Holland). She had to switch schools in her very early
+          years and because of inconsistent curricula she learned to add and
+          subtract before she learned to read.
+      </p>
+      <p>
+        Ellen earned her B.S.Ed. from Millersville University in 2002, her
+        M.S. from Lehigh University in 2004, and her Ph.D. also from Lehigh in
+        2008. From 2008 to 2012 she was an Assistant Professor at Cabrini
+        College. In 2012 she accepted a tenure track position at Temple
+        University, earning tenure in 2018.
+      </p>
+      <p>
+        Ellen served on the EPADEL Executive Board as a Member-At-Large
+        (2011-2017), Vice Chair (2017-2019), and Chair (2019-2021). Her
+        predecessor as both Chair and Vice Chair was her former real analysis
+        professor at Millersville, Ximena Catepillan.
+      </p>
+      <p>
+        Ellen has the dubious and unsought distinction of being the only
+        Chair/President of the section never to have stood in front of the
+        assembled membership to conduct a meeting.  She became chair just
+        prior to the onset of the COVID-19 pandemic and had to make the
+        heartbreaking decision to take the meeting to a virtual format in the
+        spring of 2020. Unfortunately the pandemic coincided almost exactly
+        with Ellen’s time as Chair so she was never able to preside over a
+        physical meeting of the section.
+      </p>
+    </li>
+    <li xml:id="Droms">
+      <alert>Sean Droms </alert>
+    </li>
+  </ul>
+  </p>
+  <table xml:id="MembAtLarge1"><title>Members-At-Large</title>
+  <tabular break="yes">
+    <row>
+      <cell bottom="major" >
+
+      </cell>
+      <cell bottom="major">
+
+      </cell>
+      <cell bottom="major">
+
+      </cell>
+      <cell bottom="major">
+
+      </cell>
+    </row>
+    <row>
+      <cell bottom="minor">
+        <alert>Year</alert>
+      </cell>
+      <cell bottom="minor">
+         Members-At-Large
+      </cell>
+      <cell bottom="minor">
+        Institution
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2000
+      </cell>
+      <cell>
+        Hoffmann
+      </cell>
+      <cell>
+        Montgomery County
+      </cell>
+    </row>
+
+<row>
+<cell>
+</cell>
+<cell>
+</cell>
+<cell> Community College</cell></row>
+
+    <row>
+      <cell>
+        
+      </cell>
+      <cell>
+        Rossman
+      </cell>
+      <cell>
+        Dickinson College
+      </cell>
+    </row>
+    <row>
+      <cell>
+        
+      </cell>
+      <cell>
+        Fink
+      </cell>
+      <cell>
+        Gettysburg College
+      </cell>
+    </row>
+    <row>
+      <cell>
+        
+      </cell>
+      <cell>
+        Dunham, P.
+      </cell>
+      <cell>
+        Muhlenburg College
+      </cell>
+    </row>
+    <row>
+      <cell>
+        
+      </cell>
+      <cell>
+        Hartmann
+      </cell>
+      <cell>
+        Villanova University
+      </cell>
+    </row>
+
+    <row>
+      <cell><m>2001</m></cell>
+    </row>
+
+    <row>
+      <cell><m>2002</m></cell>
+    </row>
+
+
+    <row>
+      <cell><m>2003</m></cell>
+      <cell>Ebersole</cell>
+      <cell>Northampton Community College</cell>
+    </row>
+
+    <row>
+      <cell></cell>
+      <cell><xref ref="MeierBio" text="custom">Meier</xref></cell>
+      <cell>Lafayette College</cell>
+    </row>
+
+
+    <row>
+      <cell><m>2004</m></cell>
+      <cell>Lazebnik</cell>
+      <cell>University of Delaware</cell>
+    </row>
+
+    <row>
+      <cell></cell>
+      <cell>Mauch</cell>
+      <cell>Bloomsburg University</cell>
+    </row>
+
+    <row>
+      <cell><m>2005</m></cell>
+      <cell>Fink</cell>
+      <cell>Gettysburg College</cell>
+    </row>
+
+    <row>
+      <cell></cell>
+      <cell>McGuire</cell>
+      <cell>Muhlenburg College</cell>
+    </row>
+
+
+    <row>
+      <cell><m>2006</m></cell>
+      <cell><xref ref="StyerBio" text="custom">Styer</xref></cell>
+      <cell>Villanova University</cell>
+    </row>
+
+    <row>
+      <cell></cell>
+      <cell>Shahin</cell>
+      <cell>Delaware State University</cell>
+    </row>
+
+    <row>
+      <cell></cell>
+      <cell><xref ref="MaranoBio" text="custom">Marano</xref></cell>
+      <cell>West Chester University</cell>
+    </row>
+
+
+
+
+    <row>
+      <cell>
+        2007
+      </cell>
+      <cell>
+        Darken
+      </cell>
+      <cell>
+        Community College of Philadelphia
+      </cell>
+    </row>
+    <row>
+      <cell>
+        
+      </cell>
+      <cell>
+        Weintraub
+      </cell>
+      <cell>
+        LeHigh University
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <m>2008</m>
+      </cell>
+      <cell>
+        Boyer
+      </cell>
+      <cell>
+        Drexel University
+      </cell>
+    </row>
+    <row>
+      <cell>
+        
+      </cell>
+      <cell>
+        Crow
+      </cell>
+      <cell>
+        Gettysburg College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Berman
+      </cell>
+      <cell>
+        Ursinus College
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2009
+      </cell>
+      <cell>
+        Berman
+      </cell>
+      <cell>
+        Ursinus College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Catepillan
+      </cell>
+      <cell>
+        Millersville University
+      </cell>
+    </row>
+    <row>
+<cell>
+</cell>
+      <cell><xref ref="MaranoBio" text="custom">Marano</xref></cell>
+      <cell>West Chester University</cell>
+    </row>
+
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Hall
+      </cell>
+      <cell>
+        St. Joseph's University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Kimchuk
+      </cell>
+      <cell>
+        University of the Sciences in Philidelphia
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Boyer
+      </cell>
+      <cell>
+        Drexel University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Richeson
+      </cell>
+      <cell>
+        Dickinson College
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2010
+      </cell>
+      <cell>
+        Hall
+      </cell>
+      <cell>
+        St. Joseph's University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Kimchuk
+      </cell>
+      <cell>
+        University of the Sciences in Philadelphia
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Boyer
+      </cell>
+      <cell>
+        Drexel University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Richeson
+      </cell>
+      <cell>
+        Dickinson University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Catepillan
+      </cell>
+      <cell>
+        Millersville University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Edlin
+      </cell>
+      <cell>
+        LaSalle University
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2011
+      </cell>
+      <cell>
+        Boyer
+      </cell>
+      <cell>
+        Drexel University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Richeson
+      </cell>
+      <cell>
+        Dickinson College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Andrilli
+      </cell>
+      <cell>
+        LaSalle University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Catepillan
+      </cell>
+      <cell>
+        Millersville University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        <xref ref="BomanBio" text="custom">Boman</xref>
+      </cell>
+      <cell>
+        Penn State, Harrisburg
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Kimchuk
+      </cell>
+      <cell>
+        University of the Sciences in Philadelphia
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2012
+      </cell>
+      <cell>
+        Andrilli
+      </cell>
+      <cell>
+        LaSalle University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Catepillan
+      </cell>
+      <cell>
+        Millersville University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        <xref ref="BomanBio" text="custom">Boman</xref>
+      </cell>
+      <cell>
+        Penn State, Harrisburg
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Kimchuk
+      </cell>
+      <cell>
+        University of the Sciences in Philadelphia
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Galluzzo
+      </cell>
+      <cell>
+        Shippensburg University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Panofsky
+      </cell>
+      <cell>
+        Temple University
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2013
+      </cell>
+      <cell>
+        <xref ref="BomanBio" text="custom">Boman</xref>
+      </cell>
+      <cell>
+        Penn State, Harrisburg
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Kimchuk
+      </cell>
+      <cell>
+        University of the Sciences in Philadelphia
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Galluzzo
+      </cell>
+      <cell>
+        Shippensburg University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Panofsky
+      </cell>
+      <cell>
+        Temple University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Tesman
+      </cell>
+      <cell>
+        Dickinson College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+
+      </cell>
+      <cell>
+
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2014
+      </cell>
+      <cell>
+        Galluzzo
+      </cell>
+      <cell>
+        Shippensburg
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Panofsky
+      </cell>
+      <cell>
+        Temple University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Tesman
+      </cell>
+      <cell>
+        Dickinson College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Ryan
+      </cell>
+      <cell>
+        DeSales University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Yahdi
+      </cell>
+      <cell>
+        Ursinus College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+
+      </cell>
+      <cell>
+
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2015
+      </cell>
+      <cell>
+        Tesman
+      </cell>
+      <cell>
+        Dickinson College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Ryan
+      </cell>
+      <cell>
+        DeSales University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Eyster
+      </cell>
+      <cell>
+        Independent Scholar
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Ohashi
+      </cell>
+      <cell>
+        King's College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Panofsky
+      </cell>
+      <cell>
+        Temple University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+
+      </cell>
+      <cell>
+
+      </cell>
+    </row>
+    <row>
+      <cell>
+        2016
+      </cell>
+      <cell>
+        Ryan
+      </cell>
+      <cell>
+        DeSales University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Eyster
+      </cell>
+      <cell>
+        Independent Scholar
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Ohashi
+      </cell>
+      <cell>
+        King's College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Panofsky
+      </cell>
+      <cell>
+        Temple University
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Janoski
+      </cell>
+      <cell>
+        King's College
+      </cell>
+    </row>
+    <row>
+      <cell>
+
+      </cell>
+      <cell>
+        Droms
+      </cell>
+      <cell>
+        Lebanon Valley College
+      </cell>
+    </row>
+
+  </tabular>
+</table>
+</section>

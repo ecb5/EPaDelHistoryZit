@@ -1,0 +1,6 @@
+  <chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="CentennialEra">
+  <title>The Centennial Era, <m>2001-2026</m></title>
+    <xi:include href="./intro.ptx" />
+    <xi:include href="./MeetingSites.ptx" />
+    <xi:include href="./SectionOfficers.ptx" />
+  </chapter>
