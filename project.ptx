@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     This file provides the overall configuration for your PreTeXt
-    project. To edit the content of your document, open `source/main.ptx`
+    project. To edit the content of your document, open `source/ZitarelliHistory.ptx`
     (default location).
 -->
 <project>
@@ -9,25 +9,25 @@
     <!-- To build this target, run `pretext build web` -->
     <target name="web">
       <format>html</format>
-      <source>source/main.ptx</source>
+      <source>source/ZitarelliHistory.ptx</source>
       <publication>publication/publication.ptx</publication>
       <output-dir>output/web</output-dir>
     </target>
     <target name="print" pdf-method="xelatex">
       <format>pdf</format>
-      <source>source/main.ptx</source>
+      <source>source/ZitarelliHistory.ptx</source>
       <publication>publication/publication.ptx</publication>
       <output-dir>output/print</output-dir>
     </target>
     <target name="print-latex">
       <format>latex</format>
-      <source>source/main.ptx</source>
+      <source>source/ZitarelliHistory.ptx</source>
       <publication>publication/publication.ptx</publication>
       <output-dir>output/print-latex</output-dir>
     </target>
     <target name="subset">
       <format>html</format>
-      <source>source/main.ptx</source>
+      <source>source/ZitarelliHistory.ptx</source>
       <publication>publication/publication.ptx</publication>
       <output-dir>output/subset</output-dir>
       <stringparam key="debug.skip-knowls" value="yes"/>

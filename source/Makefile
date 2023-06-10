@@ -11,16 +11,15 @@ latex: *.ptx
 
 print: *.ptx Makefile
 	pretext build print
-#	pretext view print
+#	
 
 web: *.ptx  Makefile
 	pretext build web
 
-webview: *.ptx  Makefile
-	pretext build web
+webview: 
 	pretext view web
 
-viewpdf: print
-	evince ../output/print/main.pdf
+pdfview: 
+	pretext view print
 
-clean: 
+
